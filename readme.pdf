@@ -1,0 +1,1792 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 28 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 449.0236
+ 0 ]
+ /Rect [ 62.69291
+ 626.7736
+ 86.03291
+ 638.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 449.0236
+ 0 ]
+ /Rect [ 527.0227
+ 626.7736
+ 532.5827
+ 638.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 308.0236
+ 0 ]
+ /Rect [ 62.69291
+ 608.7736
+ 74.91291
+ 620.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 308.0236
+ 0 ]
+ /Rect [ 527.0227
+ 608.7736
+ 532.5827
+ 620.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 590.7736
+ 96.58291
+ 602.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 590.7736
+ 532.5827
+ 602.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 572.7736
+ 203.8629
+ 584.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 572.7736
+ 532.5827
+ 584.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 82.69291
+ 554.7736
+ 156.6129
+ 566.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 527.0227
+ 554.7736
+ 532.5827
+ 566.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 276.0236
+ 0 ]
+ /Rect [ 82.69291
+ 536.7736
+ 115.4929
+ 548.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 276.0236
+ 0 ]
+ /Rect [ 527.0227
+ 536.7736
+ 532.5827
+ 548.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 192.0236
+ 0 ]
+ /Rect [ 82.69291
+ 518.7736
+ 187.7329
+ 530.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 192.0236
+ 0 ]
+ /Rect [ 527.0227
+ 518.7736
+ 532.5827
+ 530.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 500.7736
+ 158.2829
+ 512.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 500.7736
+ 532.5827
+ 512.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 627.0236
+ 0 ]
+ /Rect [ 82.69291
+ 482.7736
+ 275.5429
+ 494.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 627.0236
+ 0 ]
+ /Rect [ 527.0227
+ 482.7736
+ 532.5827
+ 494.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Rect [ 62.69291
+ 464.7736
+ 83.80291
+ 476.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Rect [ 527.0227
+ 464.7736
+ 532.5827
+ 476.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.bash.academy/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 202.2029
+ 410.7736
+ 319.4729
+ 422.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://tldp.org/LDP/abs/html/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 350.7736
+ 532.5827
+ 362.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://explainshell.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 307.7443
+ 332.7736
+ 414.4543
+ 344.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://hginit.com/index.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 203.5483
+ 269.7736
+ 327.2746
+ 281.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+28 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER25': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://git-scm.com/book) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 203.7736
+ 171.0629
+ 215.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://try.github.io/levels/1/challenges/1) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 129.3929
+ 173.7736
+ 306.7029
+ 185.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class PDFDictionary 
+31 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://learngitbranching.js.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 262.2329
+ 155.7736
+ 398.9629
+ 167.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class PDFDictionary 
+32 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://git-scm.com/downloads/guis) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 306.6629
+ 137.7736
+ 462.2729
+ 149.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+33 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R
+ 32 0 R ]
+ /Contents 66 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER29': class PDFDictionary 
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.py4e.com/book.php) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 642.7736
+ 532.5827
+ 654.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class PDFDictionary 
+35 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docs.python-guide.org/en/latest/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 248.7928
+ 624.7736
+ 419.7328
+ 636.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class PDFDictionary 
+36 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/jakevdp/WhirlwindTourOfPython) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 552.7736
+ 532.5827
+ 564.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER32': class PDFDictionary 
+37 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.fullstackpython.com/best-python-resources.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 504.7736
+ 532.5827
+ 516.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER33': class PDFDictionary 
+38 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 86.03291
+ 474.7736
+ 440.5929
+ 486.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER34': class PDFDictionary 
+39 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scipy-lectures.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 384.7736
+ 532.5827
+ 396.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER35': class PDFDictionary 
+40 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/jrjohansson/scientific-python-lectures) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 336.7736
+ 532.5827
+ 348.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER36': class PDFDictionary 
+41 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.enthought.com/webinar/python-for-matlab-users) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 288.7736
+ 532.5827
+ 300.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class PDFDictionary 
+42 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://kanoki.org/2017/07/16/pandas-in-a-nutshell/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 206.1029
+ 240.7736
+ 426.2229
+ 252.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class PDFDictionary 
+43 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6?gi=789797286edf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 204.7736
+ 532.5827
+ 216.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class PDFDictionary 
+44 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://jakevdp.github.io/PythonDataScienceHandbook/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 138.7736
+ 532.5827
+ 150.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class PDFDictionary 
+45 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/donnemartin/data-science-ipython-notebooks) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 78.77362
+ 532.5827
+ 90.77362 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+46 0 obj
+% Page dictionary
+<< /Annots [ 34 0 R
+ 35 0 R
+ 36 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R
+ 40 0 R
+ 41 0 R
+ 42 0 R
+ 43 0 R
+ 44 0 R
+ 45 0 R ]
+ /Contents 67 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER41': class PDFDictionary 
+47 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://eueung.github.io/python/ipython-intro) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 711.7736
+ 532.5827
+ 723.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER42': class PDFDictionary 
+48 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.pybloggers.com/2016/10/28-jupyter-notebook-tips-tricks-and-shortcuts) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 675.7736
+ 532.5827
+ 687.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER43': class PDFDictionary 
+49 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class PDFDictionary 
+50 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://confluence.csiro.au/display/SC/Reference+Guide%3A+Migrating+from+SGE+to+SLURM) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 390.7736
+ 532.5827
+ 402.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+51 0 obj
+% Page dictionary
+<< /Annots [ 47 0 R
+ 48 0 R
+ 49 0 R
+ 50 0 R ]
+ /Contents 68 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R52': class PDFCatalog 
+52 0 obj
+% Document Root
+<< /Outlines 54 0 R
+ /PageLabels 69 0 R
+ /PageMode /UseNone
+ /Pages 65 0 R
+ /Type /Catalog >>
+endobj
+% 'R53': class PDFInfo 
+53 0 obj
+<< /Author ()
+ /CreationDate (D:20180727103600-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (References for some of the Software Carpentry lessons) >>
+endobj
+% 'R54': class PDFOutlines 
+54 0 obj
+<< /Count 11
+ /First 55 0 R
+ /Last 64 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 449.0236
+ 0 ]
+ /Next 56 0 R
+ /Parent 54 0 R
+ /Title (bash) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 308.0236
+ 0 ]
+ /Next 57 0 R
+ /Parent 54 0 R
+ /Prev 55 0 R
+ /Title (git) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+57 0 obj
+<< /Count 6
+ /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 58 0 R
+ /Last 63 0 R
+ /Next 64 0 R
+ /Parent 54 0 R
+ /Prev 56 0 R
+ /Title (Python) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+58 0 obj
+<< /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 59 0 R
+ /Parent 57 0 R
+ /Title (general references / guides) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+59 0 obj
+<< /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Next 60 0 R
+ /Parent 57 0 R
+ /Prev 58 0 R
+ /Title (Scientific Python) >>
+endobj
+% 'Outline.11.2': class OutlineEntryObject 
+60 0 obj
+<< /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 276.0236
+ 0 ]
+ /Next 61 0 R
+ /Parent 57 0 R
+ /Prev 59 0 R
+ /Title (pandas) >>
+endobj
+% 'Outline.11.3': class OutlineEntryObject 
+61 0 obj
+<< /Dest [ 46 0 R
+ /XYZ
+ 62.69291
+ 192.0236
+ 0 ]
+ /Next 62 0 R
+ /Parent 57 0 R
+ /Prev 60 0 R
+ /Title (Data Science / Analysis) >>
+endobj
+% 'Outline.11.4': class OutlineEntryObject 
+62 0 obj
+<< /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 63 0 R
+ /Parent 57 0 R
+ /Prev 61 0 R
+ /Title (IPython - Jupyter) >>
+endobj
+% 'Outline.11.5': class OutlineEntryObject 
+63 0 obj
+<< /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 627.0236
+ 0 ]
+ /Parent 57 0 R
+ /Prev 62 0 R
+ /Title (Integrated Developmen Enviroments - IDEs) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+64 0 obj
+<< /Dest [ 51 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Parent 54 0 R
+ /Prev 57 0 R
+ /Title (HPC) >>
+endobj
+% 'R65': class PDFPages 
+65 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 33 0 R
+ 46 0 R
+ 51 0 R ]
+ /Type /Pages >>
+endobj
+% 'R66': class PDFStream 
+66 0 obj
+% page stream
+<< /Length 6111 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 11.00488 0 Td (References for some of the Software Carpentry) Tj T* 186.7 0 Td (lessons) Tj T* -197.7049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 680.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 24.13937 0 Td (Summary:) Tj T* -24.13937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm .163876 Tw 12 TL /F1 10 Tf 0 0 0 rg (A list of Software Carpentry related free online resources that I have compiled along) Tj T* 0 Tw (time.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (bash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (general references / guides) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Scientific Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (pandas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Data Science / Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (IPython - Jupyter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Integrated Developmen Enviroments - IDEs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (HPC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 428.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (bash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For a tutorial like guide to bash ) Tj 0 0 .501961 rg (http://www.bash.academy/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.335318 Tw (Once you get more advanced, or just for reference or looking for specific things, the "Advanced) Tj T* 0 Tw .55936 Tw (Bash-Scripting Guide" is a very useful resource \(and it comes first in google many times when searching) Tj T* 0 Tw (for bash related subjects\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://tldp.org/LDP/abs/html/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 320.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .617674 Tw 12 TL /F1 10 Tf 0 0 0 rg (For an interactive explanation of bash commands see ) Tj 0 0 .501961 rg (https://explainshell.com/) Tj 0 0 0 rg (. Try any of the classroom) Tj T* 0 Tw (examples we did, or just the examples you can find there.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 287.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.006342 Tw 12 TL /F1 10 Tf 0 0 0 rg (A good Mercurial introduction ) Tj 0 0 .501961 rg (http://hginit.com/index.html ) Tj 0 0 0 rg (. Mercurial is "the other" Distributed Version) Tj T* 0 Tw .539988 Tw (Control System, and its syntax is ) Tj /F3 10 Tf (very ) Tj /F1 10 Tf (similar to git. All the concepts apply to both, and it has good basic) Tj T* 0 Tw (insights on how Mercurial \(and git\) works.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 203.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.012093 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later on, the "Pro Git book" has anything you need as a reference for git: from basic commands, up to) Tj T* 0 Tw 3.31881 Tw (how setting up your own central git repository server with ssh access \(or locally\) in a few lines) Tj T* 0 Tw 0 0 .501961 rg (https://git-scm.com/book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .653555 Tw 12 TL /F1 10 Tf 0 0 0 rg (CodeAcademy free TryGit online tutorial, created by GitHub and useful for reviewing the course sillabus,) Tj T* 0 Tw (and a bit more ) Tj 0 0 .501961 rg (https://try.github.io/levels/1/challenges/1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Branching explained in an Interactive tutorial ) Tj 0 0 .501961 rg (https://learngitbranching.js.org/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For a list of Git graphic user interface \(GUI\) clients see ) Tj 0 0 .501961 rg (https://git-scm.com/downloads/guis) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R67': class PDFStream 
+67 0 obj
+% page stream
+<< /Length 5981 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (general references / guides) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.419986 Tw (If you want to jump straight into Python from zero \(even if you know other programming languages\), I) Tj T* 0 Tw .618651 Tw (strongly recommend "Python for Everybody". Really clear approach and very easy to follow, it also gives) Tj T* 0 Tw .343516 Tw (the most affordable approach to Object Oriented Programming I've ever seen. It's free, but you can buy a) Tj T* 0 Tw (hard copy really cheap. Also the author has a very good Coursera track based on the book.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.py4e.com/book.php) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .839979 Tw 12 TL /F1 10 Tf 0 0 0 rg (Also, "The Hitchhiker\222s Guide to Python" ) Tj 0 0 .501961 rg (http://docs.python-guide.org/en/latest/ ) Tj 0 0 0 rg (is a very good all-around) Tj T* 0 Tw (Python reference and study guide.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .207984 Tw ("A Whirlwind Tour of Python" is a fast-paced introduction to essential components of the Python language) Tj T* 0 Tw .097126 Tw (for researchers and developers who are already familiar with programming in another language. Book and) Tj T* 0 Tw (Jupyter notebooks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/jakevdp/WhirlwindTourOfPython) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.093516 Tw (A quite extensive community list of resources for the Python avid ones. From the very basic for people) Tj T* 0 Tw (new to programming, to specific occupations as "Python for the Humanities" references:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.fullstackpython.com/best-python-resources.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .609983 Tw 12 TL /F1 10 Tf 0 0 0 rg (A curated collection of Jupyter/IPython notebooks that are notable, from the Jupyter project GitHub page) Tj T* 0 Tw (itself ) Tj 0 0 .501961 rg (https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 444.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Scientific Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.16061 Tw (For a more scientific oriented goal, perhaps for people with some at least basic python knowledge, the) Tj T* 0 Tw .544692 Tw ("Scipy Lecture Notes" are a great resource. With lessons on how to interface Python with C and Fortran,) Tj T* 0 Tw (and other more advanced topics.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.scipy-lectures.org/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.303059 Tw (Notebooks from J.R. Johanssonn, \223Scientific Computing with Python\224, cover a wide variety of subjects,) Tj T* 0 Tw (even some advanced ones as HPC or interfacing Python with C and Fortran) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/jrjohansson/scientific-python-lectures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .772339 Tw (For those of you using Matlab, see an online seminar entitled "Python for MATLAB users" and a related) Tj T* 0 Tw (whitepaper, "MATLAB to Python Migration Guide", from Enthought.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.enthought.com/webinar/python-for-matlab-users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 258.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (pandas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (\223Pandas in a nutshell\224 notebook ) Tj 0 0 .501961 rg (http://kanoki.org/2017/07/16/pandas-in-a-nutshell/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A Beginner\222s Guide to Optimizing Pandas Code for Speed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6?gi=789797286edf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Data Science / Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python Data Science Book, from Jake VanderPlas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://jakevdp.github.io/PythonDataScienceHandbook/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .57816 Tw (Data science Python notebooks: Deep learning \(TensorFlow, Theano, Caffe, Keras\), scikit-learn, Kaggle,) Tj T* 0 Tw 2.347251 Tw (big data \(Spark, Hadoop MapReduce, HDFS\), matplotlib, pandas, NumPy, SciPy, Python essentials,) Tj T* 0 Tw (AWS, and various command lines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 78.02362 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/donnemartin/data-science-ipython-notebooks) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R68': class PDFStream 
+68 0 obj
+% page stream
+<< /Length 3775 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (IPython - Jupyter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Slideshow about IPython and Jupyter, 34 slides, very good) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://eueung.github.io/python/ipython-intro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (28 Jupyter Notebook tips, tricks and shortcuts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.pybloggers.com/2016/10/28-jupyter-notebook-tips-tricks-and-shortcuts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Building Interactive Dashboards with Jupyter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Integrated Developmen Enviroments - IDEs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The most popular IDEs for Python are) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 78 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .839976 Tw (Pycharm: propietary software with a good-enough community version, specifically designed for) Tj T* 0 Tw (Python development.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .58152 Tw (Microsoft's Visual Studio Code: open source general IDE, with goog Python support through its) Tj T* 0 Tw (plugins system.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .742651 Tw (Atom and SublimeText: text editor which can become quind of IDEs by means of pluggins and) Tj T* 0 Tw (addons.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (VIM :-\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (By the moment there is no R-Studio equivalent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (HPC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SGE - SLURM migration guide / table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://confluence.csiro.au/display/SC/Reference+Guide%3A+Migrating+from+SGE+to+SLURM) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R69': class PDFPageLabels 
+69 0 obj
+% Document Root
+<< /Nums [ 0
+ 70 0 R
+ 1
+ 71 0 R
+ 2
+ 72 0 R ] >>
+endobj
+% 'R70': class PDFPageLabel 
+70 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R71': class PDFPageLabel 
+71 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R72': class PDFPageLabel 
+72 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 73
+0000000000 65535 f
+0000000113 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000587 00000 n
+0000000828 00000 n
+0000001069 00000 n
+0000001310 00000 n
+0000001551 00000 n
+0000001792 00000 n
+0000002033 00000 n
+0000002275 00000 n
+0000002517 00000 n
+0000002760 00000 n
+0000003003 00000 n
+0000003246 00000 n
+0000003489 00000 n
+0000003732 00000 n
+0000003975 00000 n
+0000004218 00000 n
+0000004461 00000 n
+0000004704 00000 n
+0000004947 00000 n
+0000005190 00000 n
+0000005432 00000 n
+0000005676 00000 n
+0000005925 00000 n
+0000006170 00000 n
+0000006405 00000 n
+0000006600 00000 n
+0000006844 00000 n
+0000007107 00000 n
+0000007360 00000 n
+0000007599 00000 n
+0000008152 00000 n
+0000008401 00000 n
+0000008660 00000 n
+0000008928 00000 n
+0000009206 00000 n
+0000009508 00000 n
+0000009758 00000 n
+0000010035 00000 n
+0000010312 00000 n
+0000010582 00000 n
+0000010915 00000 n
+0000011187 00000 n
+0000011453 00000 n
+0000011868 00000 n
+0000012132 00000 n
+0000012431 00000 n
+0000012716 00000 n
+0000013006 00000 n
+0000013335 00000 n
+0000013494 00000 n
+0000013795 00000 n
+0000013921 00000 n
+0000014086 00000 n
+0000014265 00000 n
+0000014492 00000 n
+0000014683 00000 n
+0000014879 00000 n
+0000015064 00000 n
+0000015266 00000 n
+0000015462 00000 n
+0000015663 00000 n
+0000015811 00000 n
+0000015937 00000 n
+0000022147 00000 n
+0000028227 00000 n
+0000032105 00000 n
+0000032224 00000 n
+0000032301 00000 n
+0000032378 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(V\266{.\000\342a\363\011^\036\344"\231\304\\) (V\266{.\000\342a\363\011^\036\344"\231\304\\)] 
+
+ /Info 53 0 R
+ /Root 52 0 R
+ /Size 73 >>
+startxref
+32425
+%%EOF
