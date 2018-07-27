@@ -137,9 +137,9 @@ The most popular IDEs for Python are
    specifically designed for Python development.
  * Microsoft's Visual Studio Code: open source general IDE, with goog Python
    support through its plugins system.
- * Atom and SublimeText: text editor which can become quind of IDEs by means of
+ * Atom and SublimeText: text editors which can become kind of IDEs by means of
    pluggins and addons.
- * VIM :-)
+ * VIM (I had to do it :-)
 
 By the moment there is no R-Studio equivalent.
 

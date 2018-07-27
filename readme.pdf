@@ -867,7 +867,7 @@ endobj
 % 'R53': class PDFInfo 
 53 0 obj
 << /Author ()
- /CreationDate (D:20180727103600-01'00')
+ /CreationDate (D:20180727105243-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -1462,7 +1462,7 @@ endobj
 % 'R68': class PDFStream 
 68 0 obj
 % page stream
-<< /Length 3775 >>
+<< /Length 3792 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1606,7 +1606,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .742651 Tw (Atom and SublimeText: text editor which can become quind of IDEs by means of pluggins and) Tj T* 0 Tw (addons.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .817318 Tw (Atom and SublimeText: text editors which can become kind of IDEs by means of pluggins and) Tj T* 0 Tw (addons.) Tj T* ET
 Q
 Q
 q
@@ -1630,7 +1630,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (VIM :-\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (VIM \(I had to do it :-\)) Tj T* ET
 Q
 Q
 q
@@ -1775,18 +1775,18 @@ xref
 0000015937 00000 n
 0000022147 00000 n
 0000028227 00000 n
-0000032105 00000 n
-0000032224 00000 n
-0000032301 00000 n
-0000032378 00000 n
+0000032122 00000 n
+0000032241 00000 n
+0000032318 00000 n
+0000032395 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(V\266{.\000\342a\363\011^\036\344"\231\304\\) (V\266{.\000\342a\363\011^\036\344"\231\304\\)] 
+ [(\240X\206i\177$|h\363\2556\244\227\211b\342) (\240X\206i\177$|h\363\2556\244\227\211b\342)] 
 
  /Info 53 0 R
  /Root 52 0 R
  /Size 73 >>
 startxref
-32425
+32442
 %%EOF
