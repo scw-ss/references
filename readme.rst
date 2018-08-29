@@ -21,6 +21,21 @@ http://tldp.org/LDP/abs/html/
 
 For an interactive explanation of bash commands see https://explainshell.com/. Try any of the classroom examples we did, or just the examples you can find there.
 
+.. note::
+
+    First, should you be using Windows, I do recommend take a look at MobaXterm,
+    and "enhanced terminal for Windows with X11 server, tabbed SSH client, network
+    tools and much more" https://mobaxterm.mobatek.net/ . 
+    
+    It may seem a bit
+    overwhelming with so many funcionalities at first, but is incredibely useful,
+    specially if you are connecting to remote machines. It has a
+    "plugin system" with many prepackaged tools (Git, compilers, ...) and a
+    "package manager" which allows you to install any Cygwin project
+    https://cygwin.com linux utilities under windows.
+    
+    Is closed source software but has a free personal version more than enough for most of a typical usage.
+
 
 ***
 git
