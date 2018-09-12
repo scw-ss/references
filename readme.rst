@@ -60,7 +60,7 @@ Python
 general references / guides
 ===========================
 
-If you want to jump straight into Python from zero (even if you know other programming languages), I strongly recommend "Python for Everybody". Really clear approach and very easy to follow, it also gives the most affordable approach to Object Oriented Programming I've ever seen. It's free, but you can buy a hard copy really cheap.  Also the author has a very good Coursera track based on the book.  
+If you want to jump straight into Python from zero, even if you know other programming languages, I strongly recommend "Python for Everybody", an evolution from "Think Python". A really clear approach and very easy to follow, it also gives the most affordable approach to Object Oriented Programming I've ever seen. It's free, but you can buy a hard copy really cheap.  Also the author has a very good Coursera track based on the book.
 
 https://www.py4e.com/book.php
 
@@ -73,9 +73,10 @@ with programming in another language. Book and Jupyter notebooks.
 
 https://github.com/jakevdp/WhirlwindTourOfPython
 
-A quite extensive community list of resources for the Python avid ones. From the very basic for people new to programming, to specific occupations as "Python for the Humanities" references:
+A quite extensive community list of resources for the Python avid ones. From the very basic for people new to programming, to specific occupations as "Python for the Humanities" references: https://www.fullstackpython.com/best-python-resources.html
 
-https://www.fullstackpython.com/best-python-resources.html
+"The Best Python Books", from RealPython, the authors of "Real Python Course":
+https://realpython.com/best-python-books/
 
 A curated collection of Jupyter/IPython notebooks that are notable, from the Jupyter project GitHub page itself
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
