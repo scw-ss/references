@@ -68,7 +68,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  765.0236
@@ -86,7 +86,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  765.0236
@@ -104,7 +104,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  582.0236
@@ -122,7 +122,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  582.0236
@@ -140,7 +140,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  549.0236
@@ -158,7 +158,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  549.0236
@@ -176,10 +176,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
- 243.0236
+ 231.0236
  0 ]
  /Rect [ 82.69291
  554.7736
@@ -194,10 +194,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
- 243.0236
+ 231.0236
  0 ]
  /Rect [ 527.0227
  554.7736
@@ -212,10 +212,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 741.0236
+ 711.0236
  0 ]
  /Rect [ 82.69291
  536.7736
@@ -230,10 +230,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 741.0236
+ 711.0236
  0 ]
  /Rect [ 527.0227
  536.7736
@@ -248,10 +248,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 657.0236
+ 627.0236
  0 ]
  /Rect [ 82.69291
  518.7736
@@ -266,10 +266,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 657.0236
+ 627.0236
  0 ]
  /Rect [ 527.0227
  518.7736
@@ -284,10 +284,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 531.0236
+ 501.0236
  0 ]
  /Rect [ 82.69291
  500.7736
@@ -302,10 +302,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 531.0236
+ 501.0236
  0 ]
  /Rect [ 527.0227
  500.7736
@@ -320,10 +320,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 393.0236
+ 363.0236
  0 ]
  /Rect [ 82.69291
  482.7736
@@ -338,10 +338,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 393.0236
+ 363.0236
  0 ]
  /Rect [ 527.0227
  482.7736
@@ -356,10 +356,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 213.0236
+ 183.0236
  0 ]
  /Rect [ 62.69291
  464.7736
@@ -374,10 +374,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 55 0 R
+ /Dest [ 56 0 R
  /XYZ
  62.69291
- 213.0236
+ 183.0236
  0 ]
  /Rect [ 527.0227
  464.7736
@@ -498,12 +498,12 @@ endobj
  26 0 R
  28 0 R
  29 0 R ]
- /Contents 70 0 R
+ /Contents 71 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 69 0 R
+ /Parent 70 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -662,14 +662,14 @@ endobj
 41 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://realpython.com/best-python-books/) >>
+ /URI (https://realpython.com/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 62.69291
- 285.7736
- 248.8929
- 297.7736 ]
+ /Rect [ 186.7029
+ 297.7736
+ 291.4903
+ 309.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -677,14 +677,14 @@ endobj
 42 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) >>
+ /URI (https://realpython.com/best-python-books/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 86.03291
- 255.7736
- 440.5929
- 267.7736 ]
+ /Rect [ 212.0829
+ 273.7736
+ 398.2829
+ 285.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -692,14 +692,14 @@ endobj
 43 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.scipy-lectures.org/) >>
+ /URI (https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 62.69291
- 165.7736
- 532.5827
- 177.7736 ]
+ /Rect [ 86.03291
+ 243.7736
+ 440.5929
+ 255.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -707,19 +707,34 @@ endobj
 44 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (http://www.scipy-lectures.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 153.7736
+ 532.5827
+ 165.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER39': class PDFDictionary 
+45 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (https://github.com/jrjohansson/scientific-python-lectures) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 117.7736
+ 105.7736
  532.5827
- 129.7736 ]
+ 117.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-45 0 obj
+46 0 obj
 % Page dictionary
 << /Annots [ 31 0 R
  33 0 R
@@ -733,13 +748,14 @@ endobj
  41 0 R
  42 0 R
  43 0 R
- 44 0 R ]
- /Contents 71 0 R
+ 44 0 R
+ 45 0 R ]
+ /Contents 72 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 69 0 R
+ /Parent 70 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -750,8 +766,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER39': class PDFDictionary 
-46 0 obj
+% 'Annot.NUMBER40': class PDFDictionary 
+47 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://www.enthought.com/webinar/python-for-matlab-users) >>
@@ -759,24 +775,9 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 753.7736
+ 723.7736
  532.5827
- 765.7736 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER40': class PDFDictionary 
-47 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://kanoki.org/2017/07/16/pandas-in-a-nutshell/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 206.1029
- 705.7736
- 426.2229
- 717.7736 ]
+ 735.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -784,14 +785,14 @@ endobj
 48 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6?gi=789797286edf) >>
+ /URI (http://kanoki.org/2017/07/16/pandas-in-a-nutshell/) >>
  /Border [ 0
  0
  0 ]
- /Rect [ 62.69291
- 669.7736
- 532.5827
- 681.7736 ]
+ /Rect [ 206.1029
+ 675.7736
+ 426.2229
+ 687.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -799,14 +800,14 @@ endobj
 49 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://jakevdp.github.io/PythonDataScienceHandbook/) >>
+ /URI (https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6?gi=789797286edf) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 603.7736
+ 639.7736
  532.5827
- 615.7736 ]
+ 651.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -814,14 +815,14 @@ endobj
 50 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://github.com/donnemartin/data-science-ipython-notebooks) >>
+ /URI (https://jakevdp.github.io/PythonDataScienceHandbook/) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 543.7736
+ 573.7736
  532.5827
- 555.7736 ]
+ 585.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -829,14 +830,14 @@ endobj
 51 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://eueung.github.io/python/ipython-intro) >>
+ /URI (https://github.com/donnemartin/data-science-ipython-notebooks) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 477.7736
+ 513.7736
  532.5827
- 489.7736 ]
+ 525.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -844,14 +845,14 @@ endobj
 52 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (http://www.pybloggers.com/2016/10/28-jupyter-notebook-tips-tricks-and-shortcuts) >>
+ /URI (http://eueung.github.io/python/ipython-intro) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 441.7736
+ 447.7736
  532.5827
- 453.7736 ]
+ 459.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -859,14 +860,14 @@ endobj
 53 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/) >>
+ /URI (http://www.pybloggers.com/2016/10/28-jupyter-notebook-tips-tricks-and-shortcuts) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 405.7736
+ 411.7736
  532.5827
- 417.7736 ]
+ 423.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -874,35 +875,50 @@ endobj
 54 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 375.7736
+ 532.5827
+ 387.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER48': class PDFDictionary 
+55 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (https://confluence.csiro.au/display/SC/Reference+Guide%3A+Migrating+from+SGE+to+SLURM) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 156.7736
+ 126.7736
  532.5827
- 168.7736 ]
+ 138.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page3': class PDFPage 
-55 0 obj
+56 0 obj
 % Page dictionary
-<< /Annots [ 46 0 R
- 47 0 R
+<< /Annots [ 47 0 R
  48 0 R
  49 0 R
  50 0 R
  51 0 R
  52 0 R
  53 0 R
- 54 0 R ]
- /Contents 72 0 R
+ 54 0 R
+ 55 0 R ]
+ /Contents 73 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 69 0 R
+ /Parent 70 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -913,162 +929,162 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R56': class PDFCatalog 
-56 0 obj
+% 'R57': class PDFCatalog 
+57 0 obj
 % Document Root
-<< /Outlines 58 0 R
- /PageLabels 73 0 R
+<< /Outlines 59 0 R
+ /PageLabels 74 0 R
  /PageMode /UseNone
- /Pages 69 0 R
+ /Pages 70 0 R
  /Type /Catalog >>
 endobj
-% 'R57': class PDFInfo 
-57 0 obj
+% 'R58': class PDFInfo 
+58 0 obj
 << /Author ()
- /CreationDate (D:20180912083426-01'00')
+ /CreationDate (D:20181004131849-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (References for some of the Software Carpentry lessons) >>
 endobj
-% 'R58': class PDFOutlines 
-58 0 obj
+% 'R59': class PDFOutlines 
+59 0 obj
 << /Count 11
- /First 59 0 R
- /Last 68 0 R
+ /First 60 0 R
+ /Last 69 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-59 0 obj
+60 0 obj
 << /Dest [ 30 0 R
  /XYZ
  62.69291
  449.0236
  0 ]
- /Next 60 0 R
- /Parent 58 0 R
+ /Next 61 0 R
+ /Parent 59 0 R
  /Title (bash) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-60 0 obj
-<< /Dest [ 45 0 R
+61 0 obj
+<< /Dest [ 46 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /Next 61 0 R
- /Parent 58 0 R
- /Prev 59 0 R
+ /Next 62 0 R
+ /Parent 59 0 R
+ /Prev 60 0 R
  /Title (git) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-61 0 obj
+62 0 obj
 << /Count 6
- /Dest [ 45 0 R
+ /Dest [ 46 0 R
  /XYZ
  62.69291
  582.0236
  0 ]
- /First 62 0 R
- /Last 67 0 R
- /Next 68 0 R
- /Parent 58 0 R
- /Prev 60 0 R
+ /First 63 0 R
+ /Last 68 0 R
+ /Next 69 0 R
+ /Parent 59 0 R
+ /Prev 61 0 R
  /Title (Python) >>
 endobj
 % 'Outline.11.0': class OutlineEntryObject 
-62 0 obj
-<< /Dest [ 45 0 R
+63 0 obj
+<< /Dest [ 46 0 R
  /XYZ
  62.69291
  549.0236
  0 ]
- /Next 63 0 R
- /Parent 61 0 R
+ /Next 64 0 R
+ /Parent 62 0 R
  /Title (general references / guides) >>
 endobj
 % 'Outline.11.1': class OutlineEntryObject 
-63 0 obj
-<< /Dest [ 45 0 R
+64 0 obj
+<< /Dest [ 46 0 R
  /XYZ
  62.69291
- 243.0236
+ 231.0236
  0 ]
- /Next 64 0 R
- /Parent 61 0 R
- /Prev 62 0 R
+ /Next 65 0 R
+ /Parent 62 0 R
+ /Prev 63 0 R
  /Title (Scientific Python) >>
 endobj
 % 'Outline.11.2': class OutlineEntryObject 
-64 0 obj
-<< /Dest [ 55 0 R
+65 0 obj
+<< /Dest [ 56 0 R
  /XYZ
  62.69291
- 741.0236
+ 711.0236
  0 ]
- /Next 65 0 R
- /Parent 61 0 R
- /Prev 63 0 R
+ /Next 66 0 R
+ /Parent 62 0 R
+ /Prev 64 0 R
  /Title (pandas) >>
 endobj
 % 'Outline.11.3': class OutlineEntryObject 
-65 0 obj
-<< /Dest [ 55 0 R
+66 0 obj
+<< /Dest [ 56 0 R
  /XYZ
  62.69291
- 657.0236
+ 627.0236
  0 ]
- /Next 66 0 R
- /Parent 61 0 R
- /Prev 64 0 R
+ /Next 67 0 R
+ /Parent 62 0 R
+ /Prev 65 0 R
  /Title (Data Science / Analysis) >>
 endobj
 % 'Outline.11.4': class OutlineEntryObject 
-66 0 obj
-<< /Dest [ 55 0 R
+67 0 obj
+<< /Dest [ 56 0 R
  /XYZ
  62.69291
- 531.0236
+ 501.0236
  0 ]
- /Next 67 0 R
- /Parent 61 0 R
- /Prev 65 0 R
+ /Next 68 0 R
+ /Parent 62 0 R
+ /Prev 66 0 R
  /Title (IPython - Jupyter) >>
 endobj
 % 'Outline.11.5': class OutlineEntryObject 
-67 0 obj
-<< /Dest [ 55 0 R
+68 0 obj
+<< /Dest [ 56 0 R
  /XYZ
  62.69291
- 393.0236
+ 363.0236
  0 ]
- /Parent 61 0 R
- /Prev 66 0 R
+ /Parent 62 0 R
+ /Prev 67 0 R
  /Title (Integrated Developmen Enviroments - IDEs) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-68 0 obj
-<< /Dest [ 55 0 R
+69 0 obj
+<< /Dest [ 56 0 R
  /XYZ
  62.69291
- 213.0236
+ 183.0236
  0 ]
- /Parent 58 0 R
- /Prev 61 0 R
+ /Parent 59 0 R
+ /Prev 62 0 R
  /Title (HPC) >>
 endobj
-% 'R69': class PDFPages 
-69 0 obj
+% 'R70': class PDFPages 
+70 0 obj
 % page tree
 << /Count 3
  /Kids [ 30 0 R
- 45 0 R
- 55 0 R ]
+ 46 0 R
+ 56 0 R ]
  /Type /Pages >>
 endobj
-% 'R70': class PDFStream 
-70 0 obj
+% 'R71': class PDFStream 
+71 0 obj
 % page stream
 << /Length 6032 >>
 stream
@@ -1339,10 +1355,10 @@ Q
  
 endstream
 endobj
-% 'R71': class PDFStream 
-71 0 obj
+% 'R72': class PDFStream 
+72 0 obj
 % page stream
-<< /Length 6025 >>
+<< /Length 5981 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1436,32 +1452,32 @@ BT 1 0 0 1 0 26 Tm 1.093516 Tw 12 TL /F1 10 Tf 0 0 0 rg (A quite extensive commu
 Q
 Q
 q
-1 0 0 1 62.69291 285.0236 cm
+1 0 0 1 62.69291 273.0236 cm
 q
-BT 1 0 0 1 0 14 Tm 9.946342 Tw 12 TL /F1 10 Tf 0 0 0 rg ("The Best Python Books", from RealPython, the authors of "Real Python Course":) Tj T* 0 Tw 0 0 .501961 rg (https://realpython.com/best-python-books/) Tj T* ET
+BT 1 0 0 1 0 26 Tm .847485 Tw 12 TL /F1 10 Tf 0 0 0 rg (The Real Python webpage ) Tj 0 0 .501961 rg (https://realpython.com/ ) Tj 0 0 0 rg (has a long list of very good tutorials for all levels and) Tj T* 0 Tw .813735 Tw (covering many differnet subjects which are worth taking a look. They publish new tutorials often. One of) Tj T* 0 Tw (them is "The Best Python Books" ) Tj 0 0 .501961 rg (https://realpython.com/best-python-books/) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 62.69291 243.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .609983 Tw 12 TL /F1 10 Tf 0 0 0 rg (A curated collection of Jupyter/IPython notebooks that are notable, from the Jupyter project GitHub page) Tj T* 0 Tw (itself ) Tj 0 0 .501961 rg (https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 213.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Scientific Python) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 183.0236 cm
+1 0 0 1 62.69291 171.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.16061 Tw (For a more scientific oriented goal, perhaps for people with some at least basic python knowledge, the) Tj T* 0 Tw .544692 Tw ("Scipy Lecture Notes" are a great resource. With lessons on how to interface Python with C and Fortran,) Tj T* 0 Tw (and other more advanced topics.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 165.0236 cm
+1 0 0 1 62.69291 153.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1469,38 +1485,38 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.scipy-lectures.org/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 135.0236 cm
+1 0 0 1 62.69291 123.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.303059 Tw (Notebooks from J.R. Johanssonn, \223Scientific Computing with Python\224, cover a wide variety of subjects,) Tj T* 0 Tw (even some advanced ones as HPC or interfacing Python with C and Fortran) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 117.0236 cm
+1 0 0 1 62.69291 105.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/jrjohansson/scientific-python-lectures) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+% 'R73': class PDFStream 
+73 0 obj
+% page stream
+<< /Length 5962 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 87.02362 cm
+1 0 0 1 62.69291 741.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .772339 Tw (For those of you using Matlab, see an online seminar entitled "Python for MATLAB users" and a related) Tj T* 0 Tw (whitepaper, "MATLAB to Python Migration Guide", from Enthought.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-% 'R72': class PDFStream 
-72 0 obj
-% page stream
-<< /Length 5673 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 753.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1508,26 +1524,26 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.enthought.com/webinar/python-for-
 Q
 Q
 q
-1 0 0 1 62.69291 723.0236 cm
+1 0 0 1 62.69291 693.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (pandas) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (\223Pandas in a nutshell\224 notebook ) Tj 0 0 .501961 rg (http://kanoki.org/2017/07/16/pandas-in-a-nutshell/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 657.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A Beginner\222s Guide to Optimizing Pandas Code for Speed) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 639.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1535,20 +1551,20 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://engineering.upside.com/a-beginners-gu
 Q
 Q
 q
-1 0 0 1 62.69291 639.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Data Science / Analysis) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 621.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python Data Science Book, from Jake VanderPlas) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 603.0236 cm
+1 0 0 1 62.69291 573.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1556,14 +1572,14 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://jakevdp.github.io/PythonDataScienceHa
 Q
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .57816 Tw (Data science Python notebooks: Deep learning \(TensorFlow, Theano, Caffe, Keras\), scikit-learn, Kaggle,) Tj T* 0 Tw 2.347251 Tw (big data \(Spark, Hadoop MapReduce, HDFS\), matplotlib, pandas, NumPy, SciPy, Python essentials,) Tj T* 0 Tw (AWS, and various command lines.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1571,20 +1587,20 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/donnemartin/data-science-i
 Q
 Q
 q
-1 0 0 1 62.69291 513.0236 cm
+1 0 0 1 62.69291 483.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (IPython - Jupyter) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 495.0236 cm
+1 0 0 1 62.69291 465.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Slideshow about IPython and Jupyter, 34 slides, very good) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 62.69291 447.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1592,14 +1608,14 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://eueung.github.io/python/ipython-intro)
 Q
 Q
 q
-1 0 0 1 62.69291 459.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (28 Jupyter Notebook tips, tricks and shortcuts) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1607,14 +1623,14 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.pybloggers.com/2016/10/28-jupyter-
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 393.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Building Interactive Dashboards with Jupyter) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 375.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1622,23 +1638,23 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://blog.dominodatalab.com/interactive-da
 Q
 Q
 q
-1 0 0 1 62.69291 375.0236 cm
+1 0 0 1 62.69291 345.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Integrated Developmen Enviroments - IDEs) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 327.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The most popular IDEs for Python are) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 62.69291 213.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1748,30 +1764,30 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 62.69291 213.0236 cm
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (By the moment there is no R-Studio equivalent.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 192.0236 cm
+1 0 0 1 62.69291 162.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (HPC) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 144.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SGE - SLURM migration guide / table) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 126.0236 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1781,36 +1797,36 @@ Q
  
 endstream
 endobj
-% 'R73': class PDFPageLabels 
-73 0 obj
+% 'R74': class PDFPageLabels 
+74 0 obj
 % Document Root
 << /Nums [ 0
- 74 0 R
- 1
  75 0 R
+ 1
+ 76 0 R
  2
- 76 0 R ] >>
-endobj
-% 'R74': class PDFPageLabel 
-74 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 77 0 R ] >>
 endobj
 % 'R75': class PDFPageLabel 
 75 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 1 >>
 endobj
 % 'R76': class PDFPageLabel 
 76 0 obj
 % None
 << /S /D
+ /St 2 >>
+endobj
+% 'R77': class PDFPageLabel 
+77 0 obj
+% None
+<< /S /D
  /St 3 >>
 endobj
 xref
-0 77
+0 78
 0000000000 65535 f
 0000000113 00000 n
 0000000247 00000 n
@@ -1853,49 +1869,50 @@ xref
 0000009324 00000 n
 0000009592 00000 n
 0000009870 00000 n
-0000010131 00000 n
-0000010433 00000 n
-0000010683 00000 n
-0000010945 00000 n
-0000011369 00000 n
-0000011646 00000 n
-0000011916 00000 n
-0000012249 00000 n
-0000012521 00000 n
-0000012802 00000 n
-0000013066 00000 n
-0000013365 00000 n
-0000013650 00000 n
-0000013940 00000 n
-0000014314 00000 n
-0000014473 00000 n
-0000014774 00000 n
-0000014900 00000 n
-0000015065 00000 n
-0000015244 00000 n
-0000015471 00000 n
-0000015662 00000 n
-0000015858 00000 n
-0000016043 00000 n
-0000016245 00000 n
-0000016441 00000 n
-0000016642 00000 n
-0000016790 00000 n
-0000016916 00000 n
-0000023047 00000 n
-0000029171 00000 n
-0000034947 00000 n
-0000035066 00000 n
-0000035143 00000 n
-0000035220 00000 n
+0000010113 00000 n
+0000010374 00000 n
+0000010676 00000 n
+0000010926 00000 n
+0000011188 00000 n
+0000011621 00000 n
+0000011898 00000 n
+0000012168 00000 n
+0000012501 00000 n
+0000012773 00000 n
+0000013054 00000 n
+0000013318 00000 n
+0000013617 00000 n
+0000013902 00000 n
+0000014192 00000 n
+0000014566 00000 n
+0000014725 00000 n
+0000015026 00000 n
+0000015152 00000 n
+0000015317 00000 n
+0000015496 00000 n
+0000015723 00000 n
+0000015914 00000 n
+0000016110 00000 n
+0000016295 00000 n
+0000016497 00000 n
+0000016693 00000 n
+0000016894 00000 n
+0000017042 00000 n
+0000017168 00000 n
+0000023299 00000 n
+0000029379 00000 n
+0000035444 00000 n
+0000035563 00000 n
+0000035640 00000 n
+0000035717 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(8\000j\243\237\0167\223D\211\011N\247<D\332) (8\000j\243\237\0167\223D\211\011N\247<D\332)] 
+ [(\026\026B^\341\226\216eyJ"!\372\246\000\214) (\026\026B^\341\226\216eyJ"!\372\246\000\214)] 
 
- /Info 57 0 R
- /Root 56 0 R
- /Size 77 >>
+ /Info 58 0 R
+ /Root 57 0 R
+ /Size 78 >>
 startxref
-35267
+35764
 %%EOF

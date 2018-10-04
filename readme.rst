@@ -75,8 +75,9 @@ https://github.com/jakevdp/WhirlwindTourOfPython
 
 A quite extensive community list of resources for the Python avid ones. From the very basic for people new to programming, to specific occupations as "Python for the Humanities" references: https://www.fullstackpython.com/best-python-resources.html
 
-"The Best Python Books", from RealPython, the authors of "Real Python Course":
-https://realpython.com/best-python-books/
+The Real Python webpage https://realpython.com/ has a long list of very good tutorials for all
+levels and covering many differnet subjects which are worth taking a look. They
+publish new tutorials often. One of them is "The Best Python Books" https://realpython.com/best-python-books/.
 
 A curated collection of Jupyter/IPython notebooks that are notable, from the Jupyter project GitHub page itself
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
