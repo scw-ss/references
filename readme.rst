@@ -57,6 +57,14 @@ For a list of Git graphic user interface (GUI) clients see https://git-scm.com/d
 Python
 ******
 
+Anaconda
+========
+
+Learn how to decide which Anaconda / miniconda version you want, and how Python
+virtual environment work and why to use them
+https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c
+
+
 general references / guides
 ===========================
 
