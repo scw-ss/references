@@ -58,7 +58,8 @@ Using git with LaTeX
 
 See some very good tips / guidelines in "Advice for writing LaTeX documents" https://github.com/dspinellis/latex-advice
 
- 
+Also take a look at ``git-latexdiff``  tool https://gitlab.com/git-latexdiff/git-latexdiff
+
 ******
 Python
 ******
