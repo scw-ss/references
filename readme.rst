@@ -53,6 +53,12 @@ https://learngitbranching.js.org/
 For a list of Git graphic user interface (GUI) clients see https://git-scm.com/downloads/guis 
 
 
+Using git with LaTeX
+====================
+
+See some very good tips / guidelines in "Advice for writing LaTeX documents" https://github.com/dspinellis/latex-advice
+
+ 
 ******
 Python
 ******
