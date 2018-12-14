@@ -60,6 +60,8 @@ See some very good tips / guidelines in "Advice for writing LaTeX documents" htt
 
 Also take a look at ``git-latexdiff``  tool https://gitlab.com/git-latexdiff/git-latexdiff
 
+For adding git commit data inside the LaTeX document you can use the ``gitinfo2`` package https://www.ctan.org/pkg/gitinfo2
+
 ******
 Python
 ******
