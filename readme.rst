@@ -38,12 +38,12 @@ For an interactive explanation of bash commands see https://explainshell.com/. T
 
 
 ***
-git
+Git
 ***
 
-A good Mercurial introduction http://hginit.com/index.html . Mercurial is "the other" Distributed Version Control System, and its syntax is *very* similar to git. All the concepts apply to both, and it has good basic insights on how Mercurial (and git) works.
+A good Mercurial introduction http://hginit.com/index.html . Mercurial is "the other" Distributed Version Control System, and its syntax is *very* similar to Git. All the concepts apply to both, and it has good basic insights on how Mercurial (and Git) works.
 
-Later on, the "Pro Git book" has anything you need as a reference for git: from basic commands, up to how setting up your own central git repository server with ssh access (or locally) in a few lines https://git-scm.com/book
+Later on, the "Pro Git book" has anything you need as a reference for Git: from basic commands, up to how setting up your own central Git repository server with ssh access (or locally) in a few lines https://git-scm.com/book
 
 CodeAcademy free TryGit online tutorial, created by GitHub and useful for reviewing the course sillabus, and a bit more https://try.github.io/levels/1/challenges/1 
 
@@ -53,14 +53,15 @@ https://learngitbranching.js.org/
 For a list of Git graphic user interface (GUI) clients see https://git-scm.com/downloads/guis 
 
 
-Using git with LaTeX
+Using Git with LaTeX
 ====================
 
 See some very good tips / guidelines in "Advice for writing LaTeX documents" https://github.com/dspinellis/latex-advice
 
 Also take a look at ``git-latexdiff``  tool https://gitlab.com/git-latexdiff/git-latexdiff
 
-For adding git commit data inside the LaTeX document you can use the ``gitinfo2`` package https://www.ctan.org/pkg/gitinfo2
+For adding Git commit data inside the LaTeX document you can use the ``gitinfo2`` package https://www.ctan.org/pkg/gitinfo2
+aa:w
 
 
 Making your code citable

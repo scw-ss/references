@@ -27,7 +27,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 568.0236 0 ] /Rect [ 62.69291 608.0236 74.91291 620.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 568.0236 0 ] /Rect [ 62.69291 608.0236 76.58291 620.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
@@ -37,7 +37,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 385.0236 0 ] /Rect [ 82.69291 590.0236 174.3929 602.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 62.69291 385.0236 0 ] /Rect [ 82.69291 590.0236 176.6129 602.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
@@ -470,7 +470,7 @@ endobj
 endobj
 75 0 obj
 <<
-/Author () /CreationDate (D:20190605090324-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190605090324-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190605090817-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190605090817-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (References for some of the Software Carpentry lessons) /Trapped /False
 >>
 endobj
@@ -487,12 +487,12 @@ endobj
 78 0 obj
 <<
 /Count 2 /Dest [ 51 0 R /XYZ 62.69291 568.0236 0 ] /First 79 0 R /Last 80 0 R /Next 81 0 R /Parent 76 0 R 
-  /Prev 77 0 R /Title (git)
+  /Prev 77 0 R /Title (Git)
 >>
 endobj
 79 0 obj
 <<
-/Dest [ 51 0 R /XYZ 62.69291 385.0236 0 ] /Next 80 0 R /Parent 78 0 R /Title (Using git with LaTeX)
+/Dest [ 51 0 R /XYZ 62.69291 385.0236 0 ] /Next 80 0 R /Parent 78 0 R /Title (Using Git with LaTeX)
 >>
 endobj
 80 0 obj
@@ -610,7 +610,7 @@ Q
 q
 1 0 0 1 0 201 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (git) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Git) Tj T* ET
 Q
 Q
 q
@@ -623,7 +623,7 @@ Q
 q
 1 0 0 1 0 183 cm
 q
-BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Using git with LaTeX) Tj T* ET
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Using Git with LaTeX) Tj T* ET
 Q
 Q
 q
@@ -806,7 +806,7 @@ endstream
 endobj
 92 0 obj
 <<
-/Length 5509
+/Length 5507
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -860,19 +860,19 @@ Q
 q
 1 0 0 1 62.69291 547.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (git) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Git) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 505.0236 cm
 q
-BT 1 0 0 1 0 26 Tm 2.006342 Tw 12 TL /F1 10 Tf 0 0 0 rg (A good Mercurial introduction ) Tj 0 0 .501961 rg (http://hginit.com/index.html) Tj 0 0 0 rg ( . Mercurial is "the other" Distributed Version) Tj T* 0 Tw .539988 Tw (Control System, and its syntax is ) Tj /F4 10 Tf (very) Tj /F1 10 Tf ( similar to git. All the concepts apply to both, and it has good basic) Tj T* 0 Tw (insights on how Mercurial \(and git\) works.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 2.006342 Tw 12 TL /F1 10 Tf 0 0 0 rg (A good Mercurial introduction ) Tj 0 0 .501961 rg (http://hginit.com/index.html) Tj 0 0 0 rg ( . Mercurial is "the other" Distributed Version) Tj T* 0 Tw .428988 Tw (Control System, and its syntax is ) Tj /F4 10 Tf (very) Tj /F1 10 Tf ( similar to Git. All the concepts apply to both, and it has good basic) Tj T* 0 Tw (insights on how Mercurial \(and Git\) works.) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 463.0236 cm
 q
-BT 1 0 0 1 0 26 Tm -0.094512 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later on, the "Pro Git book" has anything you need as a reference for git: from basic commands, up to how) Tj T* 0 Tw 4.846235 Tw (setting up your own central git repository server with ssh access \(or locally\) in a few lines) Tj T* 0 Tw 0 0 .501961 rg (https://git-scm.com/book) Tj T* ET
+BT 1 0 0 1 0 26 Tm .895251 Tw 12 TL /F1 10 Tf 0 0 0 rg (Later on, the "Pro Git book" has anything you need as a reference for Git: from basic commands, up to) Tj T* 0 Tw 3.188221 Tw (how setting up your own central Git repository server with ssh access \(or locally\) in a few lines) Tj T* 0 Tw 0 0 .501961 rg (https://git-scm.com/book) Tj T* ET
 Q
 Q
 q
@@ -896,7 +896,7 @@ Q
 q
 1 0 0 1 62.69291 367.0236 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Using git with LaTeX) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Using Git with LaTeX) Tj T* ET
 Q
 Q
 q
@@ -914,7 +914,7 @@ Q
 q
 1 0 0 1 62.69291 289.0236 cm
 q
-BT 1 0 0 1 0 14 Tm 4.447126 Tw 12 TL /F1 10 Tf 0 0 0 rg (For adding git commit data inside the LaTeX document you can use the ) Tj /F5 10 Tf 0 0 0 rg (gitinfo2) Tj /F1 10 Tf 0 0 0 rg ( package) Tj T* 0 Tw 0 0 .501961 rg (https://www.ctan.org/pkg/gitinfo2) Tj T* ET
+BT 1 0 0 1 0 14 Tm 4.288555 Tw 12 TL /F1 10 Tf 0 0 0 rg (For adding Git commit data inside the LaTeX document you can use the ) Tj /F5 10 Tf 0 0 0 rg (gitinfo2) Tj /F1 10 Tf 0 0 0 rg ( package) Tj T* 0 Tw 0 0 .501961 rg (https://www.ctan.org/pkg/gitinfo2) Tj T* ET
 Q
 Q
 q
@@ -1471,17 +1471,17 @@ xref
 0000016118 00000 n 
 0000016200 00000 n 
 0000020991 00000 n 
-0000026552 00000 n 
-0000032139 00000 n 
-0000036662 00000 n 
-0000036730 00000 n 
-0000036764 00000 n 
-0000036798 00000 n 
-0000036832 00000 n 
+0000026550 00000 n 
+0000032137 00000 n 
+0000036660 00000 n 
+0000036728 00000 n 
+0000036762 00000 n 
+0000036796 00000 n 
+0000036830 00000 n 
 trailer
 <<
 /ID 
-[<16d28c704862763bd91c0f5485b7e867><16d28c704862763bd91c0f5485b7e867>]
+[<f67675c34326bb72fb0cf1175bce052e><f67675c34326bb72fb0cf1175bce052e>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 75 0 R
@@ -1489,5 +1489,5 @@ trailer
 /Size 100
 >>
 startxref
-36866
+36864
 %%EOF
