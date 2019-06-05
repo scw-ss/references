@@ -176,6 +176,18 @@ IPython Interactive Computing and Visualization Cookbook, Second Edition (2018),
 
 
 
+Python for Matlab users
+=======================
+
+If you are transitioning from MATLAB to Python check the White Paper "MATLAB to
+Python: A Migration Guide", from ENTHOUGHT, the creators of the first
+scientific Python distribution (now overpassed by Anaconda): https://www.enthought.com/white-paper-matlab-to-python/
+
+And the related (free) video and course linked at the end of the webpage.
+
+Also the "Mathesaurus" has a "NumPy for MATLAB users" table of equivalences
+http://mathesaurus.sourceforge.net/
+
 
 Integrated Developmen Enviroments - IDEs
 ========================================
