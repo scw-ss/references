@@ -62,6 +62,18 @@ Also take a look at ``git-latexdiff``  tool https://gitlab.com/git-latexdiff/git
 
 For adding git commit data inside the LaTeX document you can use the ``gitinfo2`` package https://www.ctan.org/pkg/gitinfo2
 
+
+Making your code citable
+========================
+
+AKA assigning a DOI (Digital Object Identifier) to a Github release.
+
+You can assign a DOI to a Github release of your project so that you can
+reference it in your papers etc. This is done through Zenodo
+(https://zenodo.org/) integration with Github, and it's a extremely simple
+process that is described here: https://guides.github.com/activities/citable-code/
+
+
 ******
 Python
 ******
