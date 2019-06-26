@@ -13,6 +13,8 @@ bash
 
 For a tutorial like guide to bash http://www.bash.academy/
 
+Also this interactive, very short lessons, bash tutorial is an easy way to get
+up your sleeves: http://rik.smith-unna.com/command_line_bootcamp/
 
 Once you get more advanced, or just for reference or looking for specific things, the "Advanced Bash-Scripting Guide" is a very useful resource (and it comes first in google many times when searching for bash related subjects)
 
