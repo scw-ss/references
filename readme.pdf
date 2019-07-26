@@ -127,32 +127,32 @@ endobj
 endobj
 26 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 627.0236 0 ] /Rect [ 82.69291 428.0236 188.2929 440.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 79 0 R /XYZ 62.69291 573.0236 0 ] /Rect [ 82.69291 428.0236 188.2929 440.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 27 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 627.0236 0 ] /Rect [ 527.0227 428.7736 532.5827 440.7736 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 79 0 R /XYZ 62.69291 573.0236 0 ] /Rect [ 527.0227 428.7736 532.5827 440.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 28 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 507.0236 0 ] /Rect [ 82.69291 410.0236 275.5429 422.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 79 0 R /XYZ 62.69291 453.0236 0 ] /Rect [ 82.69291 410.0236 275.5429 422.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 29 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 507.0236 0 ] /Rect [ 527.0227 410.7736 532.5827 422.7736 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 79 0 R /XYZ 62.69291 453.0236 0 ] /Rect [ 527.0227 410.7736 532.5827 422.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 30 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 327.0236 0 ] /Rect [ 62.69291 392.0236 83.80291 404.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 79 0 R /XYZ 62.69291 273.0236 0 ] /Rect [ 62.69291 392.0236 83.80291 404.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 78 0 R /XYZ 62.69291 327.0236 0 ] /Rect [ 527.0227 392.7736 532.5827 404.7736 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 79 0 R /XYZ 62.69291 273.0236 0 ] /Rect [ 527.0227 392.7736 532.5827 404.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 32 0 obj
@@ -180,7 +180,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://explainshell.com/)
->> /Border [ 0 0 0 ] /Rect [ 302.8029 230.0236 414.4543 242.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 307.7443 230.0236 414.4543 242.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 36 0 obj
@@ -200,7 +200,7 @@ endobj
 /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
   14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
   24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
-  34 0 R 35 0 R 37 0 R ] /Contents 97 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources <<
+  34 0 R 35 0 R 37 0 R ] /Contents 98 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 97 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -219,7 +219,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://hginit.com/index.html)
->> /Border [ 0 0 0 ] /Rect [ 195.5229 622.0236 322.4883 634.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 203.5483 622.0236 322.4883 634.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 41 0 obj
@@ -285,7 +285,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://zenodo.org/)
->> /Border [ 0 0 0 ] /Rect [ 196.0929 304.0236 288.5382 316.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 205.7082 304.0236 288.5382 316.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
@@ -299,7 +299,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
->> /Border [ 0 0 0 ] /Rect [ 181.6329 199.0236 531.706 211.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 186.8927 199.0236 531.706 211.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 53 0 obj
@@ -312,7 +312,7 @@ endobj
 54 0 obj
 <<
 /Annots [ 39 0 R 40 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 48 0 R 49 0 R 50 0 R 
-  51 0 R 52 0 R 53 0 R ] /Contents 98 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources <<
+  51 0 R 52 0 R 53 0 R ] /Contents 99 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 97 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -331,7 +331,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://docs.python-guide.org/en/latest/)
->> /Border [ 0 0 0 ] /Rect [ 243.7529 735.0236 416.1128 747.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 248.7928 735.0236 416.1128 747.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
@@ -352,7 +352,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://realpython.com/)
->> /Border [ 0 0 0 ] /Rect [ 183.3129 603.0236 287.8629 615.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 186.7029 603.0236 287.8629 615.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 60 0 obj
@@ -428,7 +428,7 @@ endobj
 70 0 obj
 <<
 /Annots [ 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 
-  65 0 R 66 0 R 67 0 R 68 0 R 69 0 R ] /Contents 99 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources <<
+  65 0 R 66 0 R 67 0 R 68 0 R 69 0 R ] /Contents 100 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 97 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -467,27 +467,34 @@ endobj
 75 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.enthought.com/white-paper-matlab-to-python/)
->> /Border [ 0 0 0 ] /Rect [ 116.6129 567.0236 373.3829 579.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://ipython-books.github.io/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 585.0236 198.3229 597.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 76 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://mathesaurus.sourceforge.net/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 519.0236 220.5529 531.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.enthought.com/white-paper-matlab-to-python/)
+>> /Border [ 0 0 0 ] /Rect [ 116.6129 513.0236 373.3829 525.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 77 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://confluence.csiro.au/display/SC/Reference+Guide%3A+Migrating+from+SGE+to+SLURM)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 270.7736 486.7629 282.7736 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (http://mathesaurus.sourceforge.net/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 465.0236 220.5529 477.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 78 0 obj
 <<
-/Annots [ 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R ] /Contents 100 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 96 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://confluence.csiro.au/display/SC/Reference+Guide%3A+Migrating+from+SGE+to+SLURM)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 216.7736 486.7629 228.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/Annots [ 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R ] /Contents 101 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 97 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -495,102 +502,102 @@ endobj
 >> /Type /Page
 >>
 endobj
-79 0 obj
-<<
-/Outlines 81 0 R /PageLabels 101 0 R /PageMode /UseNone /Pages 96 0 R /Type /Catalog
->>
-endobj
 80 0 obj
 <<
-/Author () /CreationDate (D:20190625104012-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190625104012-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (References for some of the Software Carpentry lessons) /Trapped /False
+/Outlines 82 0 R /PageLabels 102 0 R /PageMode /UseNone /Pages 97 0 R /Type /Catalog
 >>
 endobj
 81 0 obj
 <<
-/Count 16 /First 82 0 R /Last 95 0 R /Type /Outlines
+/Author () /CreationDate (D:20190726200247-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190726200247-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (References for some of the Software Carpentry lessons) /Trapped /False
 >>
 endobj
 82 0 obj
 <<
-/Dest [ 38 0 R /XYZ 62.69291 377.0236 0 ] /Next 83 0 R /Parent 81 0 R /Title (bash)
+/Count 16 /First 83 0 R /Last 96 0 R /Type /Outlines
 >>
 endobj
 83 0 obj
 <<
-/Count 2 /Dest [ 54 0 R /XYZ 62.69291 661.0236 0 ] /First 84 0 R /Last 85 0 R /Next 86 0 R /Parent 81 0 R 
-  /Prev 82 0 R /Title (Git)
+/Dest [ 38 0 R /XYZ 62.69291 377.0236 0 ] /Next 84 0 R /Parent 82 0 R /Title (bash)
 >>
 endobj
 84 0 obj
 <<
-/Dest [ 54 0 R /XYZ 62.69291 478.0236 0 ] /Next 85 0 R /Parent 83 0 R /Title (Using Git with LaTeX)
+/Count 2 /Dest [ 54 0 R /XYZ 62.69291 661.0236 0 ] /First 85 0 R /Last 86 0 R /Next 87 0 R /Parent 82 0 R 
+  /Prev 83 0 R /Title (Git)
 >>
 endobj
 85 0 obj
 <<
-/Dest [ 54 0 R /XYZ 62.69291 370.0236 0 ] /Parent 83 0 R /Prev 84 0 R /Title (Making your code citable)
+/Dest [ 54 0 R /XYZ 62.69291 478.0236 0 ] /Next 86 0 R /Parent 84 0 R /Title (Using Git with LaTeX)
 >>
 endobj
 86 0 obj
 <<
-/Count 8 /Dest [ 54 0 R /XYZ 62.69291 280.0236 0 ] /First 87 0 R /Last 94 0 R /Next 95 0 R /Parent 81 0 R 
-  /Prev 83 0 R /Title (Python)
+/Dest [ 54 0 R /XYZ 62.69291 370.0236 0 ] /Parent 84 0 R /Prev 85 0 R /Title (Making your code citable)
 >>
 endobj
 87 0 obj
 <<
-/Dest [ 54 0 R /XYZ 62.69291 247.0236 0 ] /Next 88 0 R /Parent 86 0 R /Title (Anaconda)
+/Count 8 /Dest [ 54 0 R /XYZ 62.69291 280.0236 0 ] /First 88 0 R /Last 95 0 R /Next 96 0 R /Parent 82 0 R 
+  /Prev 84 0 R /Title (Python)
 >>
 endobj
 88 0 obj
 <<
-/Dest [ 54 0 R /XYZ 62.69291 175.0236 0 ] /Next 89 0 R /Parent 86 0 R /Prev 87 0 R /Title (general references / guides)
+/Dest [ 54 0 R /XYZ 62.69291 247.0236 0 ] /Next 89 0 R /Parent 87 0 R /Title (Anaconda)
 >>
 endobj
 89 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 537.0236 0 ] /Next 90 0 R /Parent 86 0 R /Prev 88 0 R /Title (Scientific Python)
+/Dest [ 54 0 R /XYZ 62.69291 175.0236 0 ] /Next 90 0 R /Parent 87 0 R /Prev 88 0 R /Title (general references / guides)
 >>
 endobj
 90 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 351.0236 0 ] /Next 91 0 R /Parent 86 0 R /Prev 89 0 R /Title (pandas)
+/Dest [ 70 0 R /XYZ 62.69291 537.0236 0 ] /Next 91 0 R /Parent 87 0 R /Prev 89 0 R /Title (Scientific Python)
 >>
 endobj
 91 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 255.0236 0 ] /Next 92 0 R /Parent 86 0 R /Prev 90 0 R /Title (Data Science / Analysis)
+/Dest [ 70 0 R /XYZ 62.69291 351.0236 0 ] /Next 92 0 R /Parent 87 0 R /Prev 90 0 R /Title (pandas)
 >>
 endobj
 92 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 129.0236 0 ] /Next 93 0 R /Parent 86 0 R /Prev 91 0 R /Title (IPython - Jupyter)
+/Dest [ 70 0 R /XYZ 62.69291 255.0236 0 ] /Next 93 0 R /Parent 87 0 R /Prev 91 0 R /Title (Data Science / Analysis)
 >>
 endobj
 93 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 627.0236 0 ] /Next 94 0 R /Parent 86 0 R /Prev 92 0 R /Title (Python for Matlab users)
+/Dest [ 70 0 R /XYZ 62.69291 129.0236 0 ] /Next 94 0 R /Parent 87 0 R /Prev 92 0 R /Title (IPython - Jupyter)
 >>
 endobj
 94 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 507.0236 0 ] /Parent 86 0 R /Prev 93 0 R /Title (Integrated Developmen Enviroments - IDEs)
+/Dest [ 79 0 R /XYZ 62.69291 573.0236 0 ] /Next 95 0 R /Parent 87 0 R /Prev 93 0 R /Title (Python for Matlab users)
 >>
 endobj
 95 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 327.0236 0 ] /Parent 81 0 R /Prev 86 0 R /Title (HPC)
+/Dest [ 79 0 R /XYZ 62.69291 453.0236 0 ] /Parent 87 0 R /Prev 94 0 R /Title (Integrated Developmen Enviroments - IDEs)
 >>
 endobj
 96 0 obj
 <<
-/Count 4 /Kids [ 38 0 R 54 0 R 70 0 R 78 0 R ] /Type /Pages
+/Dest [ 79 0 R /XYZ 62.69291 273.0236 0 ] /Parent 82 0 R /Prev 87 0 R /Title (HPC)
 >>
 endobj
 97 0 obj
 <<
-/Length 6347
+/Count 4 /Kids [ 38 0 R 54 0 R 70 0 R 79 0 R ] /Type /Pages
+>>
+endobj
+98 0 obj
+<<
+/Length 6572
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -641,6 +648,7 @@ q
 1 0 0 1 397.8898 237 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -654,6 +662,7 @@ q
 1 0 0 1 397.8898 219 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -667,6 +676,7 @@ q
 1 0 0 1 397.8898 201 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -680,6 +690,7 @@ q
 1 0 0 1 397.8898 183 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -693,6 +704,7 @@ q
 1 0 0 1 397.8898 165 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -706,6 +718,7 @@ q
 1 0 0 1 397.8898 147 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -719,6 +732,7 @@ q
 1 0 0 1 397.8898 129 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -732,6 +746,7 @@ q
 1 0 0 1 397.8898 111 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -745,6 +760,7 @@ q
 1 0 0 1 397.8898 93 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -758,6 +774,7 @@ q
 1 0 0 1 397.8898 75 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -771,6 +788,7 @@ q
 1 0 0 1 397.8898 57 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -784,6 +802,7 @@ q
 1 0 0 1 397.8898 39 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -797,6 +816,7 @@ q
 1 0 0 1 397.8898 21 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -810,6 +830,7 @@ q
 1 0 0 1 397.8898 3 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
 Q
 Q
@@ -845,6 +866,7 @@ q
 1 0 0 1 62.69291 248.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://tldp.org/LDP/abs/html/) Tj T* ET
 Q
 Q
@@ -897,7 +919,7 @@ Q
  
 endstream
 endobj
-98 0 obj
+99 0 obj
 <<
 /Length 5572
 >>
@@ -1050,9 +1072,9 @@ Q
  
 endstream
 endobj
-99 0 obj
+100 0 obj
 <<
-/Length 5582
+/Length 5702
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1060,6 +1082,7 @@ q
 1 0 0 1 62.69291 753.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.py4e.com/book.php) Tj T* ET
 Q
 Q
@@ -1080,6 +1103,7 @@ q
 1 0 0 1 62.69291 663.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/jakevdp/WhirlwindTourOfPython) Tj T* ET
 Q
 Q
@@ -1118,6 +1142,7 @@ q
 1 0 0 1 62.69291 459.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.scipy-lectures.org/) Tj T* ET
 Q
 Q
@@ -1132,6 +1157,7 @@ q
 1 0 0 1 62.69291 411.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/jrjohansson/scientific-python-lectures) Tj T* ET
 Q
 Q
@@ -1146,6 +1172,7 @@ q
 1 0 0 1 62.69291 363.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.enthought.com/webinar/python-for-matlab-users) Tj T* ET
 Q
 Q
@@ -1172,6 +1199,7 @@ q
 1 0 0 1 62.69291 267.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6?gi) Tj T* (=789797286edf) Tj T* ET
 Q
 Q
@@ -1192,6 +1220,7 @@ q
 1 0 0 1 62.69291 201.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://jakevdp.github.io/PythonDataScienceHandbook/) Tj T* ET
 Q
 Q
@@ -1206,6 +1235,7 @@ q
 1 0 0 1 62.69291 141.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/donnemartin/data-science-ipython-notebooks) Tj T* ET
 Q
 Q
@@ -1225,9 +1255,9 @@ Q
  
 endstream
 endobj
-100 0 obj
+101 0 obj
 <<
-/Length 4636
+/Length 5208
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1235,6 +1265,7 @@ q
 1 0 0 1 62.69291 753.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://eueung.github.io/python/ipython-intro) Tj T* ET
 Q
 Q
@@ -1249,6 +1280,7 @@ q
 1 0 0 1 62.69291 717.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.pybloggers.com/2016/10/28-jupyter-notebook-tips-tricks-and-shortcuts) Tj T* ET
 Q
 Q
@@ -1263,6 +1295,7 @@ q
 1 0 0 1 62.69291 681.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/) Tj T* ET
 Q
 Q
@@ -1273,48 +1306,54 @@ BT 1 0 0 1 0 26 Tm 1.487251 Tw 12 TL /F1 10 Tf 0 0 0 rg (IPython Interactive Com
 Q
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 62.69291 585.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.487251 Tw 12 TL /F1 10 Tf 0 0 0 rg (IPython Interactive Computing and Visualization Cookbook, Second Edition \(2018\), by Cyrille Rossant,) Tj T* 0 Tw 1.214597 Tw (contains over 100 hands-on recipes on high-performance numerical computing and data science in the) Tj T* 0 Tw 4.126905 Tw (Jupyter Notebook. Most of the book is freely available on this website \(CC-BY-NC-ND license\)) Tj T* 0 Tw 0 0 .501961 rg (https://ipython-books.github.io/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Python for Matlab users) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 567.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 q
 BT 1 0 0 1 0 26 Tm .62686 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you are transitioning from MATLAB to Python check the White Paper "MATLAB to Python: A Migration) Tj T* 0 Tw 1.886136 Tw (Guide", from ENTHOUGHT, the creators of the first scientific Python distribution \(now overpassed by) Tj T* 0 Tw (Anaconda\): ) Tj 0 0 .501961 rg (https://www.enthought.com/white-paper-matlab-to-python/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 549.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And the related \(free\) video and course linked at the end of the webpage.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 519.0236 cm
+1 0 0 1 62.69291 465.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 10.45361 Tw 12 TL /F1 10 Tf 0 0 0 rg (Also the "Mathesaurus" has a "NumPy for MATLAB users" table of equivalences) Tj T* 0 Tw 0 0 .501961 rg (http://mathesaurus.sourceforge.net/) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 435.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Integrated Developmen Enviroments - IDEs) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The most popular IDEs for Python are) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 465.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 303.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1424,65 +1463,66 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 303.0236 cm
 Q
 q
-1 0 0 1 62.69291 339.0236 cm
+1 0 0 1 62.69291 285.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (By the moment there is no R-Studio equivalent.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 306.0236 cm
+1 0 0 1 62.69291 252.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (HPC) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 288.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SGE - SLURM migration guide / table) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 270.0236 cm
+1 0 0 1 62.69291 216.0236 cm
 q
 0 0 .501961 rg
+0 0 .501961 RG
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://confluence.csiro.au/display/SC/Reference+Guide%3A+Migrating+from+SGE+to+SLURM) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-101 0 obj
-<<
-/Nums [ 0 102 0 R 1 103 0 R 2 104 0 R 3 105 0 R ]
->>
-endobj
 102 0 obj
 <<
-/S /D /St 1
+/Nums [ 0 103 0 R 1 104 0 R 2 105 0 R 3 106 0 R ]
 >>
 endobj
 103 0 obj
 <<
-/S /D /St 2
+/S /D /St 1
 >>
 endobj
 104 0 obj
 <<
-/S /D /St 3
+/S /D /St 2
 >>
 endobj
 105 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+106 0 obj
 <<
 /S /D /St 4
 >>
 endobj
 xref
-0 106
+0 107
 0000000000 65535 f 
 0000000073 00000 n 
 0000000147 00000 n 
@@ -1554,51 +1594,52 @@ xref
 0000012428 00000 n 
 0000012633 00000 n 
 0000012847 00000 n 
-0000013173 00000 n 
-0000013370 00000 n 
-0000013602 00000 n 
-0000013820 00000 n 
-0000014005 00000 n 
-0000014213 00000 n 
-0000014401 00000 n 
-0000014639 00000 n 
-0000014907 00000 n 
-0000015014 00000 n 
-0000015325 00000 n 
-0000015400 00000 n 
-0000015506 00000 n 
-0000015663 00000 n 
-0000015785 00000 n 
-0000015911 00000 n 
-0000016071 00000 n 
-0000016181 00000 n 
-0000016323 00000 n 
-0000016455 00000 n 
-0000016576 00000 n 
-0000016714 00000 n 
-0000016846 00000 n 
-0000016984 00000 n 
-0000017126 00000 n 
-0000017231 00000 n 
-0000017313 00000 n 
-0000023712 00000 n 
-0000029336 00000 n 
-0000034970 00000 n 
-0000039659 00000 n 
-0000039732 00000 n 
-0000039767 00000 n 
-0000039802 00000 n 
-0000039837 00000 n 
+0000013174 00000 n 
+0000013371 00000 n 
+0000013603 00000 n 
+0000013821 00000 n 
+0000014006 00000 n 
+0000014191 00000 n 
+0000014399 00000 n 
+0000014587 00000 n 
+0000014825 00000 n 
+0000015100 00000 n 
+0000015207 00000 n 
+0000015518 00000 n 
+0000015593 00000 n 
+0000015699 00000 n 
+0000015856 00000 n 
+0000015978 00000 n 
+0000016104 00000 n 
+0000016264 00000 n 
+0000016374 00000 n 
+0000016516 00000 n 
+0000016648 00000 n 
+0000016769 00000 n 
+0000016907 00000 n 
+0000017039 00000 n 
+0000017177 00000 n 
+0000017319 00000 n 
+0000017424 00000 n 
+0000017506 00000 n 
+0000024130 00000 n 
+0000029754 00000 n 
+0000035509 00000 n 
+0000040770 00000 n 
+0000040843 00000 n 
+0000040878 00000 n 
+0000040913 00000 n 
+0000040948 00000 n 
 trailer
 <<
 /ID 
-[<7435a6b7c29f97cd4525df18242309e8><7435a6b7c29f97cd4525df18242309e8>]
+[<93630347cb439441965798c1440e58ae><93630347cb439441965798c1440e58ae>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 80 0 R
-/Root 79 0 R
-/Size 106
+/Info 81 0 R
+/Root 80 0 R
+/Size 107
 >>
 startxref
-39872
+40983
 %%EOF
