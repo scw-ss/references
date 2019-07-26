@@ -176,6 +176,7 @@ https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
 
 IPython Interactive Computing and Visualization Cookbook, Second Edition (2018), by Cyrille Rossant, contains over 100 hands-on recipes on high-performance numerical computing and data science in the Jupyter Notebook. https://ipython-books.github.io/
 
+IPython Interactive Computing and Visualization Cookbook, Second Edition (2018), by Cyrille Rossant, contains over 100 hands-on recipes on high-performance numerical computing and data science in the Jupyter Notebook. Most of the book is freely available on this website (CC-BY-NC-ND license) https://ipython-books.github.io/
 
 
 Python for Matlab users
