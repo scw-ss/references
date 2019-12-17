@@ -2,7 +2,7 @@
 References for some of the Software Carpentry lessons
 #####################################################
 
-:Summary: A list of Software Carpentry related free online resources that I have compiled along time.
+:Summary: A list of Software Carpentry related free online resources that I have compiled along time. Online repository for this document https://github.com/scw-ss/references
 
           
 .. contents::
