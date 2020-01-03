@@ -192,6 +192,12 @@ Also the "Mathesaurus" has a "NumPy for MATLAB users" table of equivalences
 http://mathesaurus.sourceforge.net/
 
 
+Graphical User Interface (GUI) application development tutorials
+================================================================
+
+Real Python'2 "Python and PyQT: Buidling a GUI Desktop Calculator" https://realpython.com/python-pyqt-gui-calculator/
+
+
 Integrated Developmen Enviroments - IDEs
 ========================================
 
