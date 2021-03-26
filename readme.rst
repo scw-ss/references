@@ -193,7 +193,7 @@ http://mathesaurus.sourceforge.net/
 Graphical User Interface (GUI) application development tutorials
 ================================================================
 
-Real Python'2 "Python and PyQT: Buidling a GUI Desktop Calculator" https://realpython.com/python-pyqt-gui-calculator/
+Real Python "Python and PyQT: Buidling a GUI Desktop Calculator" https://realpython.com/python-pyqt-gui-calculator/
 
 
 Integrated Developmen Enviroments - IDEs

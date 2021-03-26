@@ -541,7 +541,7 @@ endobj
 endobj
 86 0 obj
 <<
-/Author () /CreationDate (D:20210326085908-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210326085908-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210326085947-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210326085947-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (References for some of the Software Carpentry lessons) /Trapped /False
 >>
 endobj
@@ -1258,7 +1258,7 @@ endstream
 endobj
 107 0 obj
 <<
-/Length 6064
+/Length 6062
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1355,7 +1355,7 @@ Q
 q
 1 0 0 1 62.69291 327.0236 cm
 q
-BT 1 0 0 1 0 14 Tm 17.98442 Tw 12 TL /F1 10 Tf 0 0 0 rg (Real Python'2 "Python and PyQT: Buidling a GUI Desktop Calculator") Tj T* 0 Tw 0 0 .501961 rg (https://realpython.com/python-pyqt-gui-calculator/) Tj T* ET
+BT 1 0 0 1 0 14 Tm 18.81442 Tw 12 TL /F1 10 Tf 0 0 0 rg (Real Python "Python and PyQT: Buidling a GUI Desktop Calculator") Tj T* 0 Tw 0 0 .501961 rg (https://realpython.com/python-pyqt-gui-calculator/) Tj T* ET
 Q
 Q
 q
@@ -1652,15 +1652,15 @@ xref
 0000025082 00000 n 
 0000030166 00000 n 
 0000036020 00000 n 
-0000042137 00000 n 
-0000042210 00000 n 
-0000042245 00000 n 
-0000042280 00000 n 
-0000042315 00000 n 
+0000042135 00000 n 
+0000042208 00000 n 
+0000042243 00000 n 
+0000042278 00000 n 
+0000042313 00000 n 
 trailer
 <<
 /ID 
-[<a73cbd60abcc0ca8176b82bf0d237ee9><a73cbd60abcc0ca8176b82bf0d237ee9>]
+[<c29f38b20e1b8a0a3ca78badc5559783><c29f38b20e1b8a0a3ca78badc5559783>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 86 0 R
@@ -1668,5 +1668,5 @@ trailer
 /Size 113
 >>
 startxref
-42350
+42348
 %%EOF
