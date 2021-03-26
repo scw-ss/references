@@ -77,6 +77,28 @@ reference it in your papers etc. This is done through Zenodo
 process that is described here: https://guides.github.com/activities/citable-code/
 
 
+Using git with Jupyter notebooks
+================================
+
+As Jupyter ``.ipynb`` files are really plain text, JSON formatted files, we can
+have them under git control. As the notebooks may contain cell outputs and
+other "garbage", some care must be taken for this. See eg.
+
+https://towardsdatascience.com/version-control-with-jupyter-notebooks-f096f4d7035a
+
+and
+
+https://nextjournal.com/schmudde/how-to-version-control-jupyter
+
+This is Python! So you can ``import git`` in your notebook and retrieve the repo HEAD
+commit ID and eg. watermark it in your plots, add it to your output files
+metadata, etc. For this be careful with the workflow:  write/modify the notebook, check it works, save everything, add/commit so that you are "git clean", and *then* re-run the
+notebook so you get the proper HEAD commit ID into the produced plots,
+output files, etc..
+
+
+
+
 ******
 Python
 ******
