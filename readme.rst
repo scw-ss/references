@@ -127,11 +127,7 @@ Notebooks from J.R. Johanssonn, “Scientific Computing with Python”, cover a 
 
 https://github.com/jrjohansson/scientific-python-lectures
 
-For those of you using Matlab, see an online seminar entitled "Python for MATLAB users" and a related whitepaper, "MATLAB to Python Migration Guide", from Enthought.
-
-https://www.enthought.com/webinar/python-for-matlab-users
-
-And the whitepaper https://www.enthought.com/wp-content/uploads/Enthought-MATLAB-to-Python-White-Paper.pdf
+For those of you using Matlab, see below the section "Python for Matlab users"
 
 
 pandas
@@ -186,11 +182,11 @@ Python for Matlab users
 
 If you are transitioning from MATLAB to Python check the White Paper "MATLAB to
 Python: A Migration Guide", from ENTHOUGHT, the creators of the first
-scientific Python distribution (now overpassed by Anaconda): https://www.enthought.com/white-paper-matlab-to-python/
+scientific Python distribution (now overpassed by Anaconda): https://www.enthought.com/wp-content/uploads/Enthought-MATLAB-to-Python-White-Paper.pdf , and the related online webinar at https://www.youtube.com/watch?v=YkCegjtoHFQ
 
-And the related (free) video and course linked at the end of the webpage.
+See also RealPython "MATLAB vs Python: Why and How yo Make the Switch" at https://realpython.com/matlab-vs-python/
 
-Also the "Mathesaurus" has a "NumPy for MATLAB users" table of equivalences
+The "Mathesaurus" has a "NumPy for MATLAB users" table of equivalences
 http://mathesaurus.sourceforge.net/
 
 
