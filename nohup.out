@@ -1,0 +1,1298 @@
+[20750:20768:0427/105833.747038:ERROR:file_path_watcher_linux.cc(318)] inotify_init() failed: Too many open files (24)
+[20750:20750:0427/105833.828072:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+Opening in existing browser session.
+selecting folder '#mh/inigo_aldazabal@ehu.es/inbox'
+getaddrinfo: Name or service not known
+
+** (claws-mail:24846): WARNING **: [13:43:09] No SMTP AUTH method available
+
+compose.c:9241 Condition sel failed
+traceback:
+0:	/usr/bin/claws-mail(+0x14e213) [0x564c43b9b213]
+1:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+2:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+3:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0xa9c) [0x7f9e3321331c]
+4:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+5:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7df40) [0x7f9e35e28f40]
+6:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7e709) [0x7f9e35e29709]
+7:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+8:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+9:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+10:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+11:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_group_activate+0x84) [0x7f9e35e24234]
+12:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_groups_activate+0xdd) [0x7f9e35e2565d]
+13:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_window_activate_key+0x1b6) [0x7f9e360062c6]
+14:	/usr/lib64/libgtk-x11-2.0.so.0(+0x25b301) [0x7f9e36006301]
+15:	/usr/lib64/libgtk-x11-2.0.so.0(+0x13648b) [0x7f9e35ee148b]
+16:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+17:	/usr/lib64/libgobject-2.0.so.0(+0x234d0) [0x7f9e3320a4d0]
+18:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+19:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+20:	/usr/lib64/libgtk-x11-2.0.so.0(+0x24560c) [0x7f9e35ff060c]
+21:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_propagate_event+0x17d) [0x7f9e35edfd1d]
+22:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main_do_event+0x2eb) [0x7f9e35ee003b]
+23:	/usr/lib64/libgdk-x11-2.0.so.0(+0x5c08c) [0x7f9e35b5208c]
+24:	/usr/lib64/libglib-2.0.so.0(g_main_context_dispatch+0x157) [0x7f9e32f1de87]
+25:	/usr/lib64/libglib-2.0.so.0(+0x4e230) [0x7f9e32f1e230]
+26:	/usr/lib64/libglib-2.0.so.0(g_main_loop_run+0xc2) [0x7f9e32f1e542]
+27:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main+0xa7) [0x7f9e35edf097]
+28:	/usr/bin/claws-mail(main+0x1d3a) [0x564c43b81c2a]
+29:	/lib64/libc.so.6(__libc_start_main+0xea) [0x7f9e321f834a]
+30:	/usr/bin/claws-mail(_start+0x2a) [0x564c43b82eca]
+
+compose.c:9241 Condition sel failed
+traceback:
+0:	/usr/bin/claws-mail(+0x14e213) [0x564c43b9b213]
+1:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+2:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+3:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0xa9c) [0x7f9e3321331c]
+4:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+5:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7df40) [0x7f9e35e28f40]
+6:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7e709) [0x7f9e35e29709]
+7:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+8:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+9:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+10:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+11:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_group_activate+0x84) [0x7f9e35e24234]
+12:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_groups_activate+0xdd) [0x7f9e35e2565d]
+13:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_window_activate_key+0x1b6) [0x7f9e360062c6]
+14:	/usr/lib64/libgtk-x11-2.0.so.0(+0x25b301) [0x7f9e36006301]
+15:	/usr/lib64/libgtk-x11-2.0.so.0(+0x13648b) [0x7f9e35ee148b]
+16:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+17:	/usr/lib64/libgobject-2.0.so.0(+0x234d0) [0x7f9e3320a4d0]
+18:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+19:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+20:	/usr/lib64/libgtk-x11-2.0.so.0(+0x24560c) [0x7f9e35ff060c]
+21:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_propagate_event+0x17d) [0x7f9e35edfd1d]
+22:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main_do_event+0x2eb) [0x7f9e35ee003b]
+23:	/usr/lib64/libgdk-x11-2.0.so.0(+0x5c08c) [0x7f9e35b5208c]
+24:	/usr/lib64/libglib-2.0.so.0(g_main_context_dispatch+0x157) [0x7f9e32f1de87]
+25:	/usr/lib64/libglib-2.0.so.0(+0x4e230) [0x7f9e32f1e230]
+26:	/usr/lib64/libglib-2.0.so.0(g_main_loop_run+0xc2) [0x7f9e32f1e542]
+27:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main+0xa7) [0x7f9e35edf097]
+28:	/usr/bin/claws-mail(main+0x1d3a) [0x564c43b81c2a]
+29:	/lib64/libc.so.6(__libc_start_main+0xea) [0x7f9e321f834a]
+30:	/usr/bin/claws-mail(_start+0x2a) [0x564c43b82eca]
+
+compose.c:9241 Condition sel failed
+traceback:
+0:	/usr/bin/claws-mail(+0x14e213) [0x564c43b9b213]
+1:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+2:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+3:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0xa9c) [0x7f9e3321331c]
+4:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+5:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7df40) [0x7f9e35e28f40]
+6:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7e709) [0x7f9e35e29709]
+7:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+8:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+9:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+10:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+11:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_group_activate+0x84) [0x7f9e35e24234]
+12:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_groups_activate+0xdd) [0x7f9e35e2565d]
+13:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_window_activate_key+0x1b6) [0x7f9e360062c6]
+14:	/usr/lib64/libgtk-x11-2.0.so.0(+0x25b301) [0x7f9e36006301]
+15:	/usr/lib64/libgtk-x11-2.0.so.0(+0x13648b) [0x7f9e35ee148b]
+16:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+17:	/usr/lib64/libgobject-2.0.so.0(+0x234d0) [0x7f9e3320a4d0]
+18:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+19:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+20:	/usr/lib64/libgtk-x11-2.0.so.0(+0x24560c) [0x7f9e35ff060c]
+21:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_propagate_event+0x17d) [0x7f9e35edfd1d]
+22:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main_do_event+0x2eb) [0x7f9e35ee003b]
+23:	/usr/lib64/libgdk-x11-2.0.so.0(+0x5c08c) [0x7f9e35b5208c]
+24:	/usr/lib64/libglib-2.0.so.0(g_main_context_dispatch+0x157) [0x7f9e32f1de87]
+25:	/usr/lib64/libglib-2.0.so.0(+0x4e230) [0x7f9e32f1e230]
+26:	/usr/lib64/libglib-2.0.so.0(g_main_loop_run+0xc2) [0x7f9e32f1e542]
+27:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main+0xa7) [0x7f9e35edf097]
+28:	/usr/bin/claws-mail(main+0x1d3a) [0x564c43b81c2a]
+29:	/lib64/libc.so.6(__libc_start_main+0xea) [0x7f9e321f834a]
+30:	/usr/bin/claws-mail(_start+0x2a) [0x564c43b82eca]
+
+compose.c:9241 Condition sel failed
+traceback:
+0:	/usr/bin/claws-mail(+0x14e213) [0x564c43b9b213]
+1:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+2:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+3:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0xa9c) [0x7f9e3321331c]
+4:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+5:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7df40) [0x7f9e35e28f40]
+6:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7e709) [0x7f9e35e29709]
+7:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+8:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+9:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+10:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+11:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_group_activate+0x84) [0x7f9e35e24234]
+12:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_groups_activate+0xdd) [0x7f9e35e2565d]
+13:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_window_activate_key+0x1b6) [0x7f9e360062c6]
+14:	/usr/lib64/libgtk-x11-2.0.so.0(+0x25b301) [0x7f9e36006301]
+15:	/usr/lib64/libgtk-x11-2.0.so.0(+0x13648b) [0x7f9e35ee148b]
+16:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+17:	/usr/lib64/libgobject-2.0.so.0(+0x234d0) [0x7f9e3320a4d0]
+18:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+19:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+20:	/usr/lib64/libgtk-x11-2.0.so.0(+0x24560c) [0x7f9e35ff060c]
+21:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_propagate_event+0x17d) [0x7f9e35edfd1d]
+22:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main_do_event+0x2eb) [0x7f9e35ee003b]
+23:	/usr/lib64/libgdk-x11-2.0.so.0(+0x5c08c) [0x7f9e35b5208c]
+24:	/usr/lib64/libglib-2.0.so.0(g_main_context_dispatch+0x157) [0x7f9e32f1de87]
+25:	/usr/lib64/libglib-2.0.so.0(+0x4e230) [0x7f9e32f1e230]
+26:	/usr/lib64/libglib-2.0.so.0(g_main_loop_run+0xc2) [0x7f9e32f1e542]
+27:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main+0xa7) [0x7f9e35edf097]
+28:	/usr/bin/claws-mail(main+0x1d3a) [0x564c43b81c2a]
+29:	/lib64/libc.so.6(__libc_start_main+0xea) [0x7f9e321f834a]
+30:	/usr/bin/claws-mail(_start+0x2a) [0x564c43b82eca]
+
+compose.c:9241 Condition sel failed
+traceback:
+0:	/usr/bin/claws-mail(+0x14e213) [0x564c43b9b213]
+1:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+2:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+3:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0xa9c) [0x7f9e3321331c]
+4:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+5:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7df40) [0x7f9e35e28f40]
+6:	/usr/lib64/libgtk-x11-2.0.so.0(+0x7e709) [0x7f9e35e29709]
+7:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+8:	/usr/lib64/libgobject-2.0.so.0(+0x23a7e) [0x7f9e3320aa7e]
+9:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+10:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+11:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_group_activate+0x84) [0x7f9e35e24234]
+12:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_accel_groups_activate+0xdd) [0x7f9e35e2565d]
+13:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_window_activate_key+0x1b6) [0x7f9e360062c6]
+14:	/usr/lib64/libgtk-x11-2.0.so.0(+0x25b301) [0x7f9e36006301]
+15:	/usr/lib64/libgtk-x11-2.0.so.0(+0x13648b) [0x7f9e35ee148b]
+16:	/usr/lib64/libgobject-2.0.so.0(g_closure_invoke+0x19d) [0x7f9e331f78cd]
+17:	/usr/lib64/libgobject-2.0.so.0(+0x234d0) [0x7f9e3320a4d0]
+18:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit_valist+0x41f) [0x7f9e33212c9f]
+19:	/usr/lib64/libgobject-2.0.so.0(g_signal_emit+0x8f) [0x7f9e33213c8f]
+20:	/usr/lib64/libgtk-x11-2.0.so.0(+0x24560c) [0x7f9e35ff060c]
+21:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_propagate_event+0x17d) [0x7f9e35edfd1d]
+22:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main_do_event+0x2eb) [0x7f9e35ee003b]
+23:	/usr/lib64/libgdk-x11-2.0.so.0(+0x5c08c) [0x7f9e35b5208c]
+24:	/usr/lib64/libglib-2.0.so.0(g_main_context_dispatch+0x157) [0x7f9e32f1de87]
+25:	/usr/lib64/libglib-2.0.so.0(+0x4e230) [0x7f9e32f1e230]
+26:	/usr/lib64/libglib-2.0.so.0(g_main_loop_run+0xc2) [0x7f9e32f1e542]
+27:	/usr/lib64/libgtk-x11-2.0.so.0(gtk_main+0xa7) [0x7f9e35edf097]
+28:	/usr/bin/claws-mail(main+0x1d3a) [0x564c43b81c2a]
+29:	/lib64/libc.so.6(__libc_start_main+0xea) [0x7f9e321f834a]
+30:	/usr/bin/claws-mail(_start+0x2a) [0x564c43b82eca]
+
+
+** (claws-mail:24846): WARNING **: [13:50:49] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [14:32:36] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [15:53:25] No SMTP AUTH method available
+
+Object::connect: No such signal QalculateExpressionEditCompletionBox::highlighted(Q3ListBoxItem*)
+Object::connect: No such signal QalculateResultDisplay::doubleClicked(int, int)
+Object::connect: No such signal KUniqueApplication::kdisplayPaletteChanged()
+Object::connect:  (sender name:   'kqalculate')
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+
+** (claws-mail:24846): WARNING **: [16:13:47] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [16:15:00] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [16:25:07] IMAP error on correo.csic.es: stream error
+
+
+** (claws-mail:24846): WARNING **: [16:25:07] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 73160 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [17:05:44] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [17:15:59] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [17:25:53] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [20:12:55] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [20:12:55] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 418660 was not found when attempting to remove it
+[11582:11598:0427/215102.896295:ERROR:file_path_watcher_linux.cc(318)] inotify_init() failed: Too many open files (24)
+[11582:11582:0427/215102.999852:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+Opening in existing browser session.
+
+** (claws-mail:24846): WARNING **: [00:19:47] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [00:19:47] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 481319 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [00:56:31] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [00:56:31] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 589477 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [02:12:52] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [02:12:52] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 592135 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [02:54:44] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [02:54:44] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 600248 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [03:12:09] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [03:12:09] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 603913 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [05:26:01] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:24846): WARNING **: [05:26:01] IMAP connection broken
+
+
+** (claws-mail:24846): WARNING **: [05:26:01] IMAP error on correo.csic.es: stream error
+
+
+** (claws-mail:24846): WARNING **: [05:26:01] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 614852 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [05:29:35] IMAP error on correo.csic.es: connection refused
+
+
+** (claws-mail:24846): WARNING **: [05:29:35] Can't connect to IMAP server: correo.csic.es:993
+
+
+(claws-mail:24846): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:24846): Claws-Mail-CRITICAL **: imap_get_num_list: assertion 'session != NULL' failed
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 615095 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [05:29:50] IMAP error on imap.gmail.com: connection refused
+
+
+** (claws-mail:24846): WARNING **: [05:29:50] Can't connect to IMAP server: imap.gmail.com:993
+
+
+(claws-mail:24846): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:24846): Claws-Mail-CRITICAL **: imap_get_num_list: assertion 'session != NULL' failed
+
+** (claws-mail:19783): WARNING **: getaddrinfo for mailin.ehu.eus:995 failed: Temporary failure in name resolution
+
+** (claws-mail:19783): WARNING **: [05:30:00] mailin.ehu.eus:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:24846): WARNING **: DNS lookup failed
+
+** (claws-mail:24846): WARNING **: [05:30:00] mailin.ehu.eus:995: unknown host.
+
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:19784): WARNING **: getaddrinfo for mailin.ehu.eus:995 failed: Temporary failure in name resolution
+
+** (claws-mail:19784): WARNING **: [05:30:11] mailin.ehu.eus:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:24846): WARNING **: DNS lookup failed
+
+** (claws-mail:24846): WARNING **: [05:30:11] mailin.ehu.eus:995: unknown host.
+
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [05:30:12] 64.29.151.235:995: connection failed (No route to host).
+
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:19811): WARNING **: getaddrinfo for correo.csic.es:995 failed: Temporary failure in name resolution
+
+** (claws-mail:19811): WARNING **: [05:30:22] correo.csic.es:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:24846): WARNING **: DNS lookup failed
+
+** (claws-mail:24846): WARNING **: [05:30:22] correo.csic.es:995: unknown host.
+
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [09:02:40] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [09:02:40] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 616809 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [09:12:48] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [09:24:16] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [09:36:31] IMAP error on correo.csic.es: stream error
+
+
+** (claws-mail:24846): WARNING **: [09:36:32] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 661041 was not found when attempting to remove it
+fork: Cannot allocate memory
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: sock_connect_async_cancel: id 472 not found
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [09:39:50] Can't connect to POP3 server: mailin.ehu.eus:995
+
+fork: Cannot allocate memory
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: sock_connect_async_cancel: id 473 not found
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [09:39:50] Can't connect to POP3 server: mailin.ehu.eus:995
+
+fork: Cannot allocate memory
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: sock_connect_async_cancel: id 474 not found
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [09:39:50] Can't connect to POP3 server: 64.29.151.235:995
+
+fork: Cannot allocate memory
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: sock_connect_async_cancel: id 475 not found
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [09:39:50] Can't connect to POP3 server: correo.csic.es:995
+
+
+** (claws-mail:24846): WARNING **: [09:47:42] IMAP error on correo.csic.es: stream error
+
+
+** (claws-mail:24846): WARNING **: [09:47:42] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 700686 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [10:02:56] No SMTP AUTH method available
+
+[24678:24695:0428/100335.689927:ERROR:file_path_watcher_linux.cc(318)] inotify_init() failed: Too many open files (24)
+[24678:24678:0428/100335.838417:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+Opening in existing browser session.
+
+** (claws-mail:25364): WARNING **: getaddrinfo for mailin.ehu.eus:995 failed: Temporary failure in name resolution
+
+** (claws-mail:25364): WARNING **: [10:20:26] mailin.ehu.eus:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:24846): WARNING **: DNS lookup failed
+
+** (claws-mail:24846): WARNING **: [10:20:26] mailin.ehu.eus:995: unknown host.
+
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+(cairo-clock:25384): Gtk-WARNING **: GtkSpinButton: setting an adjustment with non-zero page size is deprecated
+
+(cairo-clock:25384): Gtk-WARNING **: GtkSpinButton: setting an adjustment with non-zero page size is deprecated
+
+(cairo-clock:25384): libglade-WARNING **: could not find a parent that handles internal children for `vbox'
+
+(claws-mail:24846): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+(/usr/lib64/firefox/firefox:24241): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+
+** (claws-mail:24846): WARNING **: [11:40:06] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [11:43:35] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [11:47:04] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [12:11:51] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [12:35:44] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [12:35:57] No SMTP AUTH method available
+
+
+(/usr/lib64/firefox/firefox:24156): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permission denied
+[834:834:0428/132739.785942:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+Opening in existing browser session.
+
+** (claws-mail:24846): WARNING **: [13:51:40] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [14:54:48] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [15:10:36] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+
+** (claws-mail:24846): WARNING **: session timeout.
+
+** (claws-mail:24846): WARNING **: [15:30:41] Session timed out. You may be able to recover by increasing the timeout value in Preferences/Other/Miscellaneous.
+
+
+** (claws-mail:24846): WARNING **: [15:31:42] IMAP error on correo.csic.es: stream error
+
+
+** (claws-mail:24846): WARNING **: [15:31:42] IMAP connection broken
+
+
+** (claws-mail:24846): WARNING **: [15:38:30] No SMTP AUTH method available
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 701353 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: session timeout.
+
+** (claws-mail:24846): WARNING **: [15:42:16] Session timed out. You may be able to recover by increasing the timeout value in Preferences/Other/Miscellaneous.
+
+paths: Cannot open file '/home/inigo/.dillo/dillorc': No such file or directory
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/inigo/.dillo/keysrc': No such file or directory
+paths: Using /etc/dillo/keysrc
+paths: Cannot open file '/home/inigo/.dillo/domainrc': No such file or directory
+paths: Using /etc/dillo/domainrc
+Domain: Default accept.
+dillo_dns_init: Here we go! (threaded)
+Disabling cookies.
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/00000c1a.mimetmp.html'
+** ERROR **: [Dpi_read_comm_keys] No such file or directory
+Dpi_blocking_start_dpid: try 1
+a_Dicache_cleanup: length = 0
+Nav_open_url: new url='https://www.ax4.com/ax4/control/customer_service?hash=y44BqmG9ZEUGdstV1lh3&don=113786090'
+a_Dicache_cleanup: length = 0
+
+** (claws-mail:24846): WARNING **: session timeout.
+
+** (claws-mail:24846): WARNING **: [15:59:34] Session timed out. You may be able to recover by increasing the timeout value in Preferences/Other/Miscellaneous.
+
+Dillo: normal exit!
+
+** (claws-mail:24846): WARNING **: session timeout.
+
+** (claws-mail:24846): WARNING **: [16:14:04] Session timed out. You may be able to recover by increasing the timeout value in Preferences/Other/Miscellaneous.
+
+[7321:7337:0428/163257.374161:ERROR:file_path_watcher_linux.cc(318)] inotify_init() failed: Too many open files (24)
+[7321:7321:0428/163257.660526:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+Opening in existing browser session.
+[file dpi]: (v.2) accepting connections...
+[file dpi]: (pid 6440): Got DpiBye.
+
+** (claws-mail:24846): WARNING **: [17:01:58] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [17:54:57] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [17:55:28] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [17:56:42] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [18:12:17] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [18:19:55] No SMTP AUTH method available
+
+/home/inigo/.claws-mail/imapcache/correo.csic.es/44125842C/INBOX/4717: unlink: No such file or directory
+/home/inigo/.claws-mail/imapcache/correo.csic.es/44125842C/INBOX/4718: unlink: No such file or directory
+/home/inigo/.claws-mail/imapcache/correo.csic.es/44125842C/INBOX/4719: unlink: No such file or directory
+
+** (claws-mail:24846): WARNING **: [19:19:50] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [19:31:09] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [00:22:21] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [00:22:21] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 992623 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [01:22:43] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:24846): WARNING **: [01:22:43] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 1153622 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [05:46:05] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:24846): WARNING **: [05:46:05] IMAP connection broken
+
+
+(claws-mail:24846): GLib-CRITICAL **: Source ID 617052 was not found when attempting to remove it
+
+** (claws-mail:24846): WARNING **: [08:34:20] Selected SMTP AUTH method not available
+
+
+** (claws-mail:24846): WARNING **: [08:35:10] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [08:47:56] No SMTP AUTH method available
+
+paths: Cannot open file '/home/inigo/.dillo/dillorc': No such file or directory
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/inigo/.dillo/keysrc': No such file or directory
+paths: Using /etc/dillo/keysrc
+paths: Cannot open file '/home/inigo/.dillo/domainrc': No such file or directory
+paths: Using /etc/dillo/domainrc
+Domain: Default accept.
+dillo_dns_init: Here we go! (threaded)
+Disabling cookies.
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/000010c0.mimetmp.html'
+** ERROR **: [Dpi_read_comm_keys] No such file or directory
+Dpi_blocking_start_dpid: try 1
+a_Dicache_cleanup: length = 0
+Dillo: normal exit!
+
+** (claws-mail:24846): WARNING **: [09:15:10] No SMTP AUTH method available
+
+
+** (claws-mail:24846): WARNING **: [09:19:28] No SMTP AUTH method available
+
+/home/inigo/.claws-mail/imapcache/correo.csic.es/44125842C/INBOX/4720: unlink: No such file or directory
+
+** (claws-mail:24846): WARNING **: couldn't execute command: gvim
+
+** (claws-mail:24846): WARNING **: couldn't execute command: gvim
+
+** (claws-mail:24846): WARNING **: couldn't execute command: gvim
+
+** (claws-mail:24846): WARNING **: couldn't execute command: gvim
+[file dpi]: (v.2) accepting connections...
+[file dpi]: (pid 634): Got DpiBye.
+[dpid]: a_Misc_mksecret: 3b860d0c
+dpid started
+
+** (claws-mail:24846): WARNING **: [10:18:46] No SMTP AUTH method available
+
+
+(claws-mail:24846): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/00001406.Fig1-capture.eps'
+
+(claws-mail:24846): Claws-Mail-WARNING **: Can't load the image.
+
+(claws-mail:24846): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/00001407.Fig2-capture.eps'
+
+(claws-mail:24846): Claws-Mail-WARNING **: Can't load the image.
+
+(claws-mail:24846): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/00001416.Fig1-capture.eps'
+
+(claws-mail:24846): Claws-Mail-WARNING **: Can't load the image.
+
+(claws-mail:24846): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/00001417.Fig3-capture.eps'
+
+(claws-mail:24846): Claws-Mail-WARNING **: Can't load the image.
+
+(claws-mail:24846): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/0000142c.Fig1-capture.eps'
+
+(claws-mail:24846): Claws-Mail-WARNING **: Can't load the image.
+
+(claws-mail:24846): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/0000142d.Fig3-capture.eps'
+
+(claws-mail:24846): Claws-Mail-WARNING **: Can't load the image.
+paths: Cannot open file '/home/inigo/.dillo/dillorc': No such file or directory
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/inigo/.dillo/keysrc': No such file or directory
+paths: Using /etc/dillo/keysrc
+paths: Cannot open file '/home/inigo/.dillo/domainrc': No such file or directory
+paths: Using /etc/dillo/domainrc
+Domain: Default accept.
+dillo_dns_init: Here we go! (threaded)
+Disabling cookies.
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/00001463.mimetmp.html'
+** ERROR **: [Dpi_read_comm_keys] No such file or directory
+Dpi_blocking_start_dpid: try 1
+a_Dicache_cleanup: length = 0
+/home/inigo/.claws-mail/imapcache/correo.csic.es/44125842C/INBOX/4723: unlink: No such file or directory
+/home/inigo/.claws-mail/imapcache/correo.csic.es/44125842C/INBOX/4725: unlink: No such file or directory
+Dillo: normal exit!
+
+(claws-mail:24846): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+** (claws-mail:24846): WARNING **: [10:43:59] No SMTP AUTH method available
+
+fork: Cannot allocate memory
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: sock_connect_async_cancel: id 1087 not found
+
+** (claws-mail:24846): WARNING **: can't connect to server.
+
+** (claws-mail:24846): WARNING **: [10:54:03] Can't connect to POP3 server: mailin.ehu.eus:995
+
+
+** (claws-mail:24846): WARNING **: [10:54:53] Message is too big (Maximum size is 20.00MB)
+
+
+(claws-mail:24846): Claws-Mail-WARNING **: send: error: 250 DSN
+
+** (claws-mail:24846): WARNING **: [10:54:53] Error occurred while sending the message.
+
+
+** (claws-mail:24846): WARNING **: [10:54:58] Message is too big (Maximum size is 20.00MB)
+
+
+(claws-mail:24846): Claws-Mail-WARNING **: send: error: 250 DSN
+
+** (claws-mail:24846): WARNING **: [10:54:58] Error occurred while sending the message.
+
+
+** (claws-mail:24846): WARNING **: [10:55:10] Message is too big (Maximum size is 20.00MB)
+
+
+(claws-mail:24846): Claws-Mail-WARNING **: send: error: 250 DSN
+
+** (claws-mail:24846): WARNING **: [10:55:10] Error occurred while sending the message.
+
+selecting folder '#imap/inigo.aldazabal@gmail.com/INBOX'
+[file dpi]: (v.2) accepting connections...
+[file dpi]: (pid 10573): Got DpiBye.
+[dpid]: a_Misc_mksecret: 5e24ee08
+dpid started
+getaddrinfo: Name or service not known
+
+** (claws-mail:12506): WARNING **: [11:42:59] No SMTP AUTH method available
+
+
+** (claws-mail:12506): WARNING **: [11:44:24] No SMTP AUTH method available
+
+
+** (claws-mail:12506): WARNING **: [11:54:09] No SMTP AUTH method available
+
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(firefox:23832): Gtk-CRITICAL **: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+** (claws-mail:12506): WARNING **: [12:53:09] No SMTP AUTH method available
+
+
+** (claws-mail:12506): WARNING **: [13:03:34] No SMTP AUTH method available
+
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+** (claws-mail:12506): WARNING **: [13:22:26] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:12506): WARNING **: [13:22:26] IMAP connection broken
+
+
+(claws-mail:12506): GLib-CRITICAL **: Source ID 92086 was not found when attempting to remove it
+
+** (claws-mail:12506): WARNING **: [13:33:57] Message is too big (Maximum size is 20.00MB)
+
+
+(claws-mail:12506): Claws-Mail-WARNING **: send: error: 250 DSN
+
+** (claws-mail:12506): WARNING **: [13:33:57] Error occurred while sending the message.
+
+
+** (claws-mail:12506): WARNING **: [13:34:11] Message is too big (Maximum size is 20.00MB)
+
+
+(claws-mail:12506): Claws-Mail-WARNING **: send: error: 250 DSN
+
+** (claws-mail:12506): WARNING **: [13:34:11] Error occurred while sending the message.
+
+
+** (claws-mail:12506): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+selecting folder '#imap/inigo.aldazabal@gmail.com/INBOX'
+getaddrinfo: Name or service not known
+
+** (claws-mail:1869): WARNING **: [13:34:37] Message is too big (Maximum size is 20.00MB)
+
+
+(claws-mail:1869): Claws-Mail-WARNING **: send: error: 250 DSN
+
+** (claws-mail:1869): WARNING **: [13:34:37] Error occurred while sending the message.
+
+
+** (claws-mail:1869): WARNING **: [13:43:17] No SMTP AUTH method available
+
+
+(claws-mail:1869): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/0000008d.Fig2-capture.eps'
+
+(claws-mail:1869): Claws-Mail-WARNING **: Can't load the image.
+
+(claws-mail:1869): Claws-Mail-WARNING **: Couldn't recognize the image file format for file '/home/inigo/.claws-mail/mimetmp/000000aa.Fig2-capture.eps'
+
+(claws-mail:1869): Claws-Mail-WARNING **: Can't load the image.
+
+** (claws-mail:1869): WARNING **: [14:42:29] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [15:08:21] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:1869): WARNING **: [15:08:21] IMAP connection broken
+
+
+(claws-mail:1869): GLib-CRITICAL **: Source ID 73290 was not found when attempting to remove it
+
+** (claws-mail:1869): WARNING **: [15:18:23] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:1869): WARNING **: [15:18:23] IMAP connection broken
+
+
+(claws-mail:1869): GLib-CRITICAL **: Source ID 156558 was not found when attempting to remove it
+
+** (claws-mail:1869): WARNING **: [16:25:26] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [16:30:28] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [17:02:52] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [17:04:34] No SMTP AUTH method available
+
+
+** (cairo-clock:25384): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+
+** (claws-mail:1869): WARNING **: [18:09:37] No SMTP AUTH method available
+
+
+(claws-mail:1869): GLib-GObject-WARNING **: gsignal.c:2523: signal 'changed' is invalid for instance '0x55ba8e3d2080' of type 'GtkCheckButton'
+
+(claws-mail:1869): GLib-GObject-WARNING **: gsignal.c:2523: signal 'changed' is invalid for instance '0x55ba868b4030' of type 'GtkCheckButton'
+
+(claws-mail:1869): GLib-GObject-WARNING **: gsignal.c:2602: handler '44821' of instance '0x55ba8d552330' is not blocked
+
+** (claws-mail:1869): WARNING **: [18:29:13] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+
+** (claws-mail:1869): WARNING **: [18:31:56] No SMTP AUTH method available
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370130,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370130,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370130,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370130,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370130,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+** (claws-mail:1869): WARNING **: [18:56:03] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [19:01:36] No SMTP AUTH method available
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+** (claws-mail:1869): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+
+** (claws-mail:1869): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:1869): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:1869): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:1869): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:1869): WARNING **: [19:31:02] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [19:55:13] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [21:10:31] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:1869): WARNING **: [21:10:31] IMAP connection broken
+
+
+(claws-mail:1869): GLib-CRITICAL **: Source ID 157540 was not found when attempting to remove it
+
+** (claws-mail:1869): WARNING **: [21:30:55] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [03:47:45] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:1869): WARNING **: [03:47:45] IMAP connection broken
+
+
+(claws-mail:1869): GLib-CRITICAL **: Source ID 476127 was not found when attempting to remove it
+
+** (claws-mail:1869): WARNING **: [08:24:19] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [10:11:15] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [10:15:40] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [10:20:12] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [10:23:56] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [10:28:40] No SMTP AUTH method available
+
+
+(claws-mail:1869): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+** (claws-mail:1869): WARNING **: [10:42:44] No SMTP AUTH method available
+
+
+(claws-mail:1869): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+(claws-mail:1869): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+(claws-mail:1869): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+** (claws-mail:1869): WARNING **: [11:23:21] No SMTP AUTH method available
+
+
+** (claws-mail:1869): WARNING **: [11:24:20] No SMTP AUTH method available
+
+selecting folder '#mh/inigo_aldazabal@ehu.es/inbox'
+
+** (claws-mail:2726): WARNING **: [12:19:26] No SMTP AUTH method available
+
+Qt: Locales not supported on X server
+x2go-INFO-1> "Starting X2Go Client 4.1.2.3..."
+x2go-WARNING-1> English language requested, not loading translator.
+x2go-WARNING-1> English language requested, not loading translator.
+x2go-INFO-3> "Started X2Go Client."
+x2go-INFO-8> "Starting connection to server: oberon-ac.sn.ehu.es:22"
+resuming normal session 
+RESUMING SESSION is KDRIVE:  false 
+x2go-INFO-8> "Starting connection to server: oberon-ac.sn.ehu.es:22"
+resuming normal session 
+RESUMING SESSION is KDRIVE:  false 
+x2go-INFO-8> "Starting connection to server: oberon-ac.sn.ehu.es:22"
+RESUMING SESSION is KDRIVE:  false 
+
+** (claws-mail:2726): WARNING **: [12:28:57] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [13:11:04] No SMTP AUTH method available
+
+[4932:4949:0430/131205.001771:ERROR:file_path_watcher_linux.cc(318)] inotify_init() failed: Too many open files (24)
+[4932:4932:0430/131205.071875:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+[4932:4932:0430/131205.134723:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+[4972:5001:0430/131205.151300:ERROR:file_path_watcher_linux.cc(318)] inotify_init() failed: Too many open files (24)
+[4969:4969:0430/131205.163386:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[5045:1:0430/131214.926829:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[4932:4932:0430/131215.143332:ERROR:proxy_config_service_linux.cc(591)] inotify_init failed: Too many open files (24)
+[Child 19466, MediaDecoderStateMachine #75] WARNING: Decoder=7fc35880ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /home/abuild/rpmbuild/BUILD/firefox-74.0/dom/media/MediaDecoderStateMachine.cpp, line 3358
+[Child 19466, MediaDecoderStateMachine #75] WARNING: Decoder=7fc35880ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /home/abuild/rpmbuild/BUILD/firefox-74.0/dom/media/MediaDecoderStateMachine.cpp, line 3358
+[Child 19466, MediaDecoderStateMachine #75] WARNING: Decoder=7fc35880ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /home/abuild/rpmbuild/BUILD/firefox-74.0/dom/media/MediaDecoderStateMachine.cpp, line 3358
+
+** (claws-mail:2726): WARNING **: [14:50:30] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [14:50:40] Selected SMTP AUTH method not available
+
+
+** (claws-mail:2726): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+Object::connect: No such signal QalculateExpressionEditCompletionBox::highlighted(Q3ListBoxItem*)
+Object::connect: No such signal QalculateResultDisplay::doubleClicked(int, int)
+Object::connect: No such signal KUniqueApplication::kdisplayPaletteChanged()
+Object::connect:  (sender name:   'kqalculate')
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+QTextHtmlParser::applyAttributes: Unknown color name 'gray40'
+Opening in existing browser session.
+[8243:17:0430/155555.314660:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/155555.315098:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[8243:19:0430/155557.531076:ERROR:webrtc_video_engine.cc(3060)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[8243:19:0430/155557.531692:ERROR:webrtc_video_engine.cc(3060)] Absent receive stream; ignoring clearing encoded frame sink for ssrc 0
+[4932:7690:0430/155557.543110:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[8243:19:0430/155635.022710:ERROR:stun_port.cc(96)] Binding request timed out from 10.157.144.x:51055 (ppp1)
+[4932:7690:0430/160025.711866:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[4932:7690:0430/160039.401370:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[8243:17:0430/160040.624379:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/160040.624947:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[4932:7690:0430/160045.451283:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[4932:7690:0430/160045.612107:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[4932:7690:0430/160105.460568:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[8243:17:0430/160445.450554:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/160445.450749:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[4969:4969:0430/160646.252281:ERROR:shared_image_manager.cc(191)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4969:4969:0430/160646.254471:ERROR:shared_image_manager.cc(191)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4932:7690:0430/160646.270944:ERROR:webrtc_event_log_manager_remote.cc(411)] Session ID already set.
+[8243:17:0430/160806.390179:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/160806.391600:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[8555:1:0430/160903.749094:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[8683:1:0430/161003.207436:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[8243:17:0430/162418.419464:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/162418.419755:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+paths: Cannot open file '/home/inigo/.dillo/dillorc': No such file or directory
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/inigo/.dillo/keysrc': No such file or directory
+paths: Using /etc/dillo/keysrc
+paths: Cannot open file '/home/inigo/.dillo/domainrc': No such file or directory
+paths: Using /etc/dillo/domainrc
+Domain: Default accept.
+dillo_dns_init: Here we go! (threaded)
+Disabling cookies.
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/0000059d.mimetmp.html'
+** ERROR **: [Dpi_read_comm_keys] No such file or directory
+Dpi_blocking_start_dpid: try 1
+a_Dicache_cleanup: length = 0
+Dillo: normal exit!
+[8243:18:0430/172154.734296:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[8243:17:0430/172156.880691:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/172156.881057:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[8243:17:0430/172157.250636:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/172157.251068:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[8243:17:0430/172157.312406:ERROR:batching_media_log.cc(26)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[8243:1:0430/172157.312591:ERROR:batching_media_log.cc(26)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[file dpi]: (v.2) accepting connections...
+[file dpi]: (pid 9117): Got DpiBye.
+[dpid]: a_Misc_mksecret: 94425d03
+dpid started
+
+(claws-mail:2726): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+paths: Cannot open file '/home/inigo/.dillo/dillorc': No such file or directory
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/inigo/.dillo/keysrc': No such file or directory
+paths: Using /etc/dillo/keysrc
+paths: Cannot open file '/home/inigo/.dillo/domainrc': No such file or directory
+paths: Using /etc/dillo/domainrc
+Domain: Default accept.
+dillo_dns_init: Here we go! (threaded)
+Disabling cookies.
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/0000060d.mimetmp.html'
+** ERROR **: [Dpi_read_comm_keys] No such file or directory
+Dpi_blocking_start_dpid: try 1
+>>>> a_Nav_repush <<<<
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/0000060d.mimetmp.html'
+a_Nav_expect_done: repush!
+a_Dicache_cleanup: length = 0
+Dillo: normal exit!
+
+(claws-mail:2726): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+** (claws-mail:2726): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Breeze/gtk-2.0/../assets/line-h.png,
+borders don't fit within the image
+
+** (claws-mail:2726): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:2726): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:2726): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:2726): WARNING **: invalid source position for vertical gradient
+
+** (claws-mail:2726): WARNING **: [17:50:41] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [17:55:44] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [18:39:42] No SMTP AUTH method available
+
+[file dpi]: (v.2) accepting connections...
+[file dpi]: (pid 10505): Got DpiBye.
+[dpid]: a_Misc_mksecret: 997de415
+dpid started
+
+** (claws-mail:2726): WARNING **: [18:41:34] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [18:48:14] No SMTP AUTH method available
+
+
+(claws-mail:2726): Claws-Mail-WARNING **: sc_html_get_tag(): syntax error in tag: 'img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABcCAYAAAD9JuLrAAAeDklEQVR4Ae1dZ3gVR7Jl9...'
+
+** (claws-mail:2726): WARNING **: [18:53:37] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [18:55:01] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [19:04:13] No SMTP AUTH method available
+
+
+** (claws-mail:2726): WARNING **: [23:51:47] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:2726): WARNING **: [23:51:47] IMAP connection broken
+
+
+(claws-mail:2726): GLib-CRITICAL **: Source ID 89649 was not found when attempting to remove it
+
+** (claws-mail:2726): WARNING **: [00:03:02] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:2726): WARNING **: [00:03:02] IMAP connection broken
+
+
+(claws-mail:2726): GLib-CRITICAL **: Source ID 723970 was not found when attempting to remove it
+
+** (claws-mail:2726): WARNING **: [04:05:37] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:2726): WARNING **: [04:05:37] IMAP connection broken
+
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+(claws-mail:2726): Claws-Mail-CRITICAL **: imap_scan_required: assertion 'session != NULL' failed
+
+** (claws-mail:19673): WARNING **: getaddrinfo for mailin.ehu.eus:995 failed: Temporary failure in name resolution
+
+** (claws-mail:19673): WARNING **: [04:05:37] mailin.ehu.eus:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:2726): WARNING **: DNS lookup failed
+
+** (claws-mail:2726): WARNING **: [04:05:37] mailin.ehu.eus:995: unknown host.
+
+
+** (claws-mail:2726): WARNING **: can't connect to server.
+
+** (claws-mail:19674): WARNING **: getaddrinfo for mailin.ehu.eus:995 failed: Temporary failure in name resolution
+
+** (claws-mail:19674): WARNING **: [04:05:37] mailin.ehu.eus:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:2726): WARNING **: DNS lookup failed
+
+** (claws-mail:2726): WARNING **: [04:05:37] mailin.ehu.eus:995: unknown host.
+
+
+** (claws-mail:2726): WARNING **: can't connect to server.
+connect: Network is unreachable
+
+** (claws-mail:2726): WARNING **: can't connect to server.
+
+** (claws-mail:19676): WARNING **: getaddrinfo for correo.csic.es:995 failed: Temporary failure in name resolution
+
+** (claws-mail:19676): WARNING **: [04:05:37] correo.csic.es:995: host lookup failed (Temporary failure in name resolution).
+
+
+** (claws-mail:2726): WARNING **: DNS lookup failed
+
+** (claws-mail:2726): WARNING **: [04:05:37] correo.csic.es:995: unknown host.
+
+
+** (claws-mail:2726): WARNING **: can't connect to server.
+[4932:4950:0501/040538.419854:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -137
+[4932:4932:0501/041251.369362:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+[4932:4950:0501/041253.371946:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -137
+
+** (claws-mail:2726): WARNING **: size differ 1423 1422
+
+** (claws-mail:2726): WARNING **: [06:23:56] IMAP error on imap.gmail.com: stream error
+
+
+** (claws-mail:2726): WARNING **: [06:23:56] IMAP connection broken
+
+
+(claws-mail:2726): GLib-CRITICAL **: Source ID 750529 was not found when attempting to remove it
+
+** (claws-mail:2726): WARNING **: [08:52:57] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:2726): WARNING **: [08:52:57] IMAP connection broken
+
+
+(claws-mail:2726): GLib-CRITICAL **: Source ID 750279 was not found when attempting to remove it
+paths: Cannot open file '/home/inigo/.dillo/dillorc': No such file or directory
+paths: Using /etc/dillo/dillorc
+paths: Cannot open file '/home/inigo/.dillo/keysrc': No such file or directory
+paths: Using /etc/dillo/keysrc
+paths: Cannot open file '/home/inigo/.dillo/domainrc': No such file or directory
+paths: Using /etc/dillo/domainrc
+Domain: Default accept.
+dillo_dns_init: Here we go! (threaded)
+Disabling cookies.
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/00000ae5.mimetmp.html'
+** ERROR **: [Dpi_read_comm_keys] No such file or directory
+Dpi_blocking_start_dpid: try 1
+CssParser::parseImport(): @import https://fonts.googleapis.com/css?family=Open+Sans:400,400i,500,600,600i,700,700i
+NumPendingStyleSheets=1
+>>>> a_Nav_repush <<<<
+a_Dicache_cleanup: length = 0
+Nav_open_url: new url='file:/home/inigo/.claws-mail/mimetmp/00000ae5.mimetmp.html'
+a_Nav_expect_done: repush!
+CssParser::parseImport(): @import https://fonts.googleapis.com/css?family=Open+Sans:400,400i,500,600,600i,700,700i
+a_Dicache_cleanup: length = 0
+Nav_open_url: new url='https://eventing.coursera.org/redirectSigned/eyJrZXkiOiJlbWFpbC5saW5rLm9wZW4iLCJ2YWx1ZSI6eyJ1cmwiOiJodHRwczovL3d3dy5jb3Vyc2VyYS5vcmcvbGVhcm4vZmluZGluZy1wdXJwb3NlLWFuZC1tZWFuaW5nLWluLWxpZmU_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPW1hcmtldGluZyZ1dG1fY2FtcGFpZ249cUJiOFFJYVJFZXFkX3hGS0RFTkprdyIsInRyYWNraW5nIjp7InVzZXJJZCI6MjE3OTMyLCJ1c2VyRW1haWwiOiJpbmlnby5hbGRhemFiYWxtQGVodS5ldXMiLCJub3RpZmljYXRpb25UeXBlIjoiTFpETXdJYUlFZXFkX3hGS0RFTkprdyIsImNhbXBhaWduSWQiOiJtYXJrZXRpbmd-MjAyMC0wNC0zMCIsImNhbXBhaWduR3JvdXAiOiJxQmI4UUlhUkVlcWRfeEZLREVOSmt3IiwibGlua3MiOltdfX0sInVzZXJJZCI6MjE3OTMyfQ.C5bjmBYWGb_zsTARC2YovEJWFdyGE7nLwF8IkSM2w1E'
+HTTP warning: Message with a body lacked Content-Type header.
+Nav_open_url: new url='https://www.coursera.org/learn/finding-purpose-and-meaning-in-life?utm_medium=email&utm_source=marketing&utm_campaign=qBb8QIaREeqd_xFKDENJkw'
+140164709507392:error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol:s23_clnt.c:827:
+Dillo: normal exit!
+
+** (claws-mail:2726): WARNING **: [09:35:17] No SMTP AUTH method available
+
+[file dpi]: (v.2) accepting connections...
+[file dpi]: (pid 26615): Got DpiBye.
+
+** (claws-mail:2726): WARNING **: [12:15:16] IMAP error on correo.csic.es: parse error (very probably non-RFC compliance from the server)
+
+
+** (claws-mail:2726): WARNING **: [12:15:16] IMAP connection broken
+
+
+(claws-mail:2726): GLib-CRITICAL **: Source ID 776805 was not found when attempting to remove it

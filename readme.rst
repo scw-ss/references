@@ -131,6 +131,8 @@ For those of you using Matlab, see an online seminar entitled "Python for MATLAB
 
 https://www.enthought.com/webinar/python-for-matlab-users
 
+And the whitepaper https://www.enthought.com/wp-content/uploads/Enthought-MATLAB-to-Python-White-Paper.pdf
+
 
 pandas
 ======
